@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRPawn.uasset"
 			]
 		}
 	]
