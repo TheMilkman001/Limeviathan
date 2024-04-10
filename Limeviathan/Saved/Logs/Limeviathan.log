@@ -2099,3 +2099,157 @@ The following settings have been applied:
 [2024.04.10-15.41.05:696][ 91]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2024.04.10-15.41.05:699][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
 [2024.04.10-15.41.05:761][ 92]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.04.10-15.44.00:309][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.04.10-15.44.00:316][167]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRMap' took 0.031
+[2024.04.10-15.44.00:329][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VRTemplate/Blueprints/Baot] ([2] browsable assets)...
+[2024.04.10-15.44.00:349][167]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/Baot.Baot]
+[2024.04.10-15.44.00:349][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Baot]
+[2024.04.10-15.44.00:403][167]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/Baot_Auto1
+[2024.04.10-15.44.00:403][167]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/Baot_Auto150CB4D34409DA5BFFA856C886C8D04DB.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/Autosaves/Game/VRTemplate/Blueprints/Baot_Auto1.uasset'
+[2024.04.10-15.44.00:405][167]LogFileHelpers: Auto-saving content packages took 0.079
+[2024.04.10-15.45.58:218][ 98]BlueprintLog: New page: Compile Baot
+[2024.04.10-15.45.58:311][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.04.10-15.45.59:082][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-15.45.59:147][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/Baot" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Baot.uasset" SILENT=true
+[2024.04.10-15.45.59:204][139]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Baot
+[2024.04.10-15.45.59:207][139]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/BaotFF112C154320417CC916AF9458512496.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Baot.uasset'
+[2024.04.10-15.45.59:216][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 1.88 sec)
+[2024.04.10-15.45.59:218][139]AssetCheck: New page: Asset Save: Baot
+[2024.04.10-15.45.59:218][139]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/Baot.Baot
+[2024.04.10-15.46.11:164][801]BlueprintLog: New page: Compile Baot
+[2024.04.10-15.46.11:259][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.04.10-15.47.11:310][862]BlueprintLog: New page: Compile Baot
+[2024.04.10-15.47.11:405][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.04.10-15.47.12:162][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-15.47.12:236][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/Baot" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Baot.uasset" SILENT=true
+[2024.04.10-15.47.12:289][904]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Baot
+[2024.04.10-15.47.12:292][904]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/Baot2530C913475AC97DEE8DF8AA8BE5372F.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Baot.uasset'
+[2024.04.10-15.47.12:301][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 2.02 sec)
+[2024.04.10-15.47.12:304][904]AssetCheck: New page: Asset Save: Baot
+[2024.04.10-15.47.12:304][904]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/Baot.Baot
+[2024.04.10-15.50.23:113][943]BlueprintLog: New page: Compile Baot
+[2024.04.10-15.50.23:215][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.04.10-15.50.23:820][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-15.50.23:888][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/Baot" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Baot.uasset" SILENT=true
+[2024.04.10-15.50.23:945][966]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Baot
+[2024.04.10-15.50.23:947][966]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/Baot965EDBB3473D6EB683B330908162B250.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Baot.uasset'
+[2024.04.10-15.50.23:957][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 2.15 sec)
+[2024.04.10-15.50.23:959][966]AssetCheck: New page: Asset Save: Baot
+[2024.04.10-15.50.23:959][966]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/Baot.Baot
+[2024.04.10-15.50.34:922][678]BlueprintLog: New page: Compile Baot
+[2024.04.10-15.50.35:026][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.04.10-15.50.35:627][703]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-15.50.35:706][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/Baot" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Baot.uasset" SILENT=true
+[2024.04.10-15.50.35:759][703]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Baot
+[2024.04.10-15.50.35:762][703]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/Baot733C219045F2D7642CDB8098F1D4D352.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Baot.uasset'
+[2024.04.10-15.50.35:770][703]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 2.30 sec)
+[2024.04.10-15.50.35:773][703]AssetCheck: New page: Asset Save: Baot
+[2024.04.10-15.50.35:773][703]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/Baot.Baot
+[2024.04.10-15.51.41:171][ 22]BlueprintLog: New page: Compile Baot
+[2024.04.10-15.51.41:268][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.04.10-15.51.42:060][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-15.51.42:136][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/Baot" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Baot.uasset" SILENT=true
+[2024.04.10-15.51.42:192][ 62]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Baot
+[2024.04.10-15.51.42:194][ 62]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/BaotE70FCCA44BC860CECB5AA1B03B3E1AF9.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Baot.uasset'
+[2024.04.10-15.51.42:202][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 2.44 sec)
+[2024.04.10-15.51.42:205][ 62]AssetCheck: New page: Asset Save: Baot
+[2024.04.10-15.51.42:205][ 62]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/Baot.Baot
+[2024.04.10-15.51.54:433][924]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.10-15.51.54:445][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.10-15.51.54:445][924]PIE: New page: PIE session: VRMap (Apr 10, 2024, 1:51:54 AM)
+[2024.04.10-15.51.54:445][924]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRMap
+[2024.04.10-15.51.54:453][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007242s)
+[2024.04.10-15.51.54:453][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRMap.VRMap to /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap (0.007286s)
+[2024.04.10-15.51.54:474][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.04.10-15.51.54:479][924]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-15.51.54:480][924]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-15.51.54:480][924]LogAIModule: Creating AISystem for world VRMap
+[2024.04.10-15.51.54:481][924]LogPlayLevel: PIE: World Init took: (0.001318s)
+[2024.04.10-15.51.54:481][924]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.04.10-15.51.54:481][924]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-15.51.54:481][924]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-15.51.54:481][924]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-15.51.54:481][924]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-15.51.54:481][924]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.10-15.51.54:481][924]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.10-15.51.54:481][924]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.10-15.51.54:481][924]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-15.51.54:482][924]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-15.51.54:482][924]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-15.51.54:482][924]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-15.51.54:485][924]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.10-15.51.54:512][924]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.04.10-15.51.54:512][924]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-15.51.54:513][924]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-15.51.54:513][924]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-15.51.54:514][924]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.04.10-15.51.54:514][924]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.04.10-15.51.54:517][924]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.04.10-15.51.54:517][924]LogInit: FAudioDevice initialized with ID 6.
+[2024.04.10-15.51.54:517][924]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.04.10-15.51.54:517][924]LogAudio: Display: Audio Device (ID: 6) registered with world 'VRMap'.
+[2024.04.10-15.51.54:517][924]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.10-15.51.54:525][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-15.51.57:128][924]LogLoad: Game class is 'VRGameMode_C'
+[2024.04.10-15.51.57:131][924]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2024.04.10-08.51.57
+[2024.04.10-15.51.57:135][924]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.04.10-15.51.57:136][924]LogWorld: Bringing up level for play took: 0.007092
+[2024.04.10-15.51.57:140][924]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.10-15.51.57:143][924]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.10-15.51.57:144][924]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.10-15.51.57:144][924]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.10-15.51.57:144][924]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.10-15.51.57:144][924]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.10-15.51.57:144][924]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.10-15.51.57:144][924]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2024.04.10-15.51.57:145][924]LogBlueprintUserMessages: [Grabbable_SmallCube_C_1] Server: Hello
+[2024.04.10-15.51.57:145][924]LogHMD: SetSpectatorScreenMode(6).
+[2024.04.10-15.51.57:146][924]vr.PixelDensity = "1"
+[2024.04.10-15.51.57:160][924]PIE: Server logged in
+[2024.04.10-15.51.57:168][924]PIE: Play in editor total start time 2.723 seconds.
+[2024.04.10-15.51.57:262][924]LogViewport: Scene viewport resized to 4464x2292, mode Windowed.
+[2024.04.10-15.51.57:300][924]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.04.10-15.51.57:360][925]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.04.10-15.54.04:657][475]LogNet: Browse: /Game/VRTemplate/Maps/VRMap
+[2024.04.10-15.54.04:657][475]LogLoad: LoadMap: /Game/VRTemplate/Maps/VRMap
+[2024.04.10-15.54.04:657][475]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRMap
+[2024.04.10-15.54.04:657][475]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2024.04.10-15.54.04:657][475]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2024.04.10-15.54.04:657][475]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2024.04.10-15.54.04:658][475]LogWorld: UWorld::CleanupWorld for VRMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-15.54.04:658][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-15.54.04:681][475]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.10-15.54.04:685][475]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.10-15.54.04:685][475]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.10-15.54.04:687][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.04.10-15.54.04:689][475]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRMap
+[2024.04.10-15.54.04:697][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007724s)
+[2024.04.10-15.54.04:697][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRMap.VRMap to /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap (0.007786s)
+[2024.04.10-15.54.04:697][475]LogAudio: Display: Audio Device (ID: 6) registered with world 'VRMap'.
+[2024.04.10-15.54.04:697][475]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-15.54.04:697][475]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-15.54.04:698][475]LogAIModule: Creating AISystem for world VRMap
+[2024.04.10-15.54.04:698][475]LogPlayLevel: PIE: World Init took: (0.001346s)
+[2024.04.10-15.54.04:698][475]LogLoad: Game class is 'VRGameMode_C'
+[2024.04.10-15.54.04:700][475]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2024.04.10-08.54.04
+[2024.04.10-15.54.04:701][475]LogWorld: Bringing up level for play took: 0.002290
+[2024.04.10-15.54.04:705][475]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.10-15.54.04:708][475]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.10-15.54.04:708][475]LogBlueprintUserMessages: [Grabbable_SmallCube_C_1] Hello
+[2024.04.10-15.54.04:709][475]LogHMD: SetSpectatorScreenMode(6).
+[2024.04.10-15.54.04:709][475]vr.PixelDensity = "1"
+[2024.04.10-15.54.04:710][475]LogLoad: Took 0.052469 seconds to LoadMap(/Game/VRTemplate/Maps/UEDPIE_0_VRMap)
+[2024.04.10-15.54.11:972][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-15.54.11:972][728]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRMap
+[2024.04.10-15.54.12:083][728]LogSlate: Window 'Limeviathan Preview [NetMode: Server 0]  (64-bit/PC D3D SM5) OpenXR SteamVR/OpenXR (2.4.4)' being destroyed
+[2024.04.10-15.54.12:086][728]LogWorld: UWorld::CleanupWorld for VRMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-15.54.12:086][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-15.54.12:097][728]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.10-15.54.12:105][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-15.54.12:128][728]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.10-15.54.12:128][728]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.10-15.54.12:131][728]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.10-15.54.12:139][728]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.10-15.54.12:139][728]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.10-15.54.12:141][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.04.10-15.54.12:196][729]LogPlayLevel: Display: Destroying online subsystem :Context_16
