@@ -5,26 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/BOOATE.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/BOOTE.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Bote.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/LETTHEREBELIGHT.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Material.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/nononoWAITWAITWAIT.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/PortPointy.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/nononoWAITWAITWAIT_PhysicsAsset.uasset",
-				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Material_001.uasset",
-				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/sherk_Cube.uasset",
-				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Material_003.uasset",
-				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Material_004.uasset",
-				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/sherk_Sphere.uasset",
-				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Material_002.uasset",
-				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/sherk_Cone_005.uasset"
-=======
-				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/FlatscreenUI.uasset",
-				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Port.uasset"
->>>>>>> Stashed changes
+				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Port.uasset",
+				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Maps/VRMap.umap"
 			]
 		}
 	]
