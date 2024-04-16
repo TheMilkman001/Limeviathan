@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/BOOATE.uasset",
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/BOOTE.uasset",
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Bote.uasset",
@@ -20,6 +21,10 @@
 				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/sherk_Sphere.uasset",
 				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Material_002.uasset",
 				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/sherk_Cone_005.uasset"
+=======
+				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/FlatscreenUI.uasset",
+				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Port.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]

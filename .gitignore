@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Limeviathan/Saved/Logs/Limeviathan.log
+Limeviathan/Saved/Logs/Limeviathan.log
+Limeviathan/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
