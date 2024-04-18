@@ -1485,3 +1485,784 @@ The following settings have been applied:
 [2024.04.18-15.03.06:505][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave took 227 ms (total: 510 ms)
 [2024.04.18-15.03.06:509][ 11]AssetCheck: New page: Asset Save: VRPawn
 [2024.04.18-15.03.06:510][ 11]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.04.18-15.12.59:895][568]LogSlate: Took 0.060671 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.04.18-15.13.51:285][433]BlueprintLog: New page: Compile Tentacles
+[2024.04.18-15.13.51:387][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.04.18-15.14.29:200][563]BlueprintLog: New page: Compile Tentacles
+[2024.04.18-15.14.29:296][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.04.18-15.14.30:118][590]LogViewport: Scene viewport resized to 1237x691, mode Windowed.
+[2024.04.18-15.15.11:575][ 87]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.18-15.15.38:744][524]BlueprintLog: New page: Compile Tentacles
+[2024.04.18-15.15.38:956][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.04.18-15.15.39:653][546]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-15.15.39:706][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/Tentacles" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Tentacles.uasset" SILENT=true
+[2024.04.18-15.15.39:762][546]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Tentacles
+[2024.04.18-15.15.39:764][546]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/Tentacles38EE709B4432989DF80C68820C983BAD.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Tentacles.uasset'
+[2024.04.18-15.15.39:773][546]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 631 ms)
+[2024.04.18-15.15.39:776][546]AssetCheck: New page: Asset Save: Tentacles
+[2024.04.18-15.15.39:777][546]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/Tentacles.Tentacles
+[2024.04.18-15.16.07:623][412]LogEditorTransaction: Undo Delete current selection
+[2024.04.18-15.16.45:480][183]BlueprintLog: New page: Compile Tentacles
+[2024.04.18-15.16.45:580][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.04.18-15.16.46:253][205]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-15.16.46:290][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/Tentacles" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Tentacles.uasset" SILENT=true
+[2024.04.18-15.16.46:330][205]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Tentacles
+[2024.04.18-15.16.46:331][205]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/Tentacles42A9016A43E34329DDE78D9A4D21EB93.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Tentacles.uasset'
+[2024.04.18-15.16.46:340][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 718 ms)
+[2024.04.18-15.16.46:342][205]AssetCheck: New page: Asset Save: Tentacles
+[2024.04.18-15.16.46:342][205]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/Tentacles.Tentacles
+[2024.04.18-15.17.14:050][990]LogViewport: Scene viewport resized to 1237x691, mode Windowed.
+[2024.04.18-15.25.45:136][715]BlueprintLog: New page: Compile VRPawn
+[2024.04.18-15.25.45:321][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.04.18-15.25.46:011][737]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-15.25.46:068][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2024.04.18-15.25.46:242][737]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2024.04.18-15.25.46:245][737]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/VRPawn0D4766BD486AE26F6FF72F9A607EF3DB.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2024.04.18-15.25.46:255][737]LogFileHelpers: InternalPromptForCheckoutAndSave took 244 ms (total: 962 ms)
+[2024.04.18-15.25.46:259][737]AssetCheck: New page: Asset Save: VRPawn
+[2024.04.18-15.25.46:259][737]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.04.18-15.27.04:922][ 94]BlueprintLog: New page: Compile Projectile
+[2024.04.18-15.27.04:977][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2024.04.18-15.27.05:878][140]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-15.27.05:938][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/Projectile" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Projectile.uasset" SILENT=true
+[2024.04.18-15.27.05:956][140]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Projectile
+[2024.04.18-15.27.05:958][140]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/Projectile4856BD0C4A6BF44900644B99EFD292A9.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Projectile.uasset'
+[2024.04.18-15.27.05:968][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 1.05 sec)
+[2024.04.18-15.27.05:971][140]AssetCheck: New page: Asset Save: Projectile
+[2024.04.18-15.27.05:971][140]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/Projectile.Projectile
+[2024.04.18-15.27.17:937][947]BlueprintLog: New page: Compile Projectile
+[2024.04.18-15.27.17:988][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.04.18-15.27.18:742][983]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-15.27.18:804][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/Projectile" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Projectile.uasset" SILENT=true
+[2024.04.18-15.27.18:823][983]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Projectile
+[2024.04.18-15.27.18:825][983]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/ProjectileD84C3347427FB42C00360E92ACB2A21B.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Projectile.uasset'
+[2024.04.18-15.27.18:835][983]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 1.14 sec)
+[2024.04.18-15.27.18:838][983]AssetCheck: New page: Asset Save: Projectile
+[2024.04.18-15.27.18:838][983]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/Projectile.Projectile
+[2024.04.18-15.27.29:948][731]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.18-15.27.29:962][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.18-15.27.29:962][731]PIE: New page: PIE session: VRMap (Apr 18, 2024, 1:27:29 AM)
+[2024.04.18-15.27.29:969][731]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.04.18-15.27.29:969][731]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.04.18-15.27.29:969][731]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRMap
+[2024.04.18-15.27.29:977][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007864s)
+[2024.04.18-15.27.29:978][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRMap.VRMap to /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap (0.007935s)
+[2024.04.18-15.27.30:000][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.04.18-15.27.30:005][731]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-15.27.30:005][731]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-15.27.30:006][731]LogAIModule: Creating AISystem for world VRMap
+[2024.04.18-15.27.30:006][731]LogPlayLevel: PIE: World Init took: (0.001826s)
+[2024.04.18-15.27.30:006][731]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.18-15.27.30:006][731]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.18-15.27.30:006][731]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.18-15.27.30:006][731]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.18-15.27.30:006][731]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.18-15.27.30:006][731]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.18-15.27.30:006][731]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.18-15.27.30:007][731]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.18-15.27.30:007][731]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.18-15.27.30:008][731]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.18-15.27.30:008][731]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.18-15.27.30:008][731]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.18-15.27.30:011][731]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.18-15.27.30:044][731]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.04.18-15.27.30:045][731]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.18-15.27.30:045][731]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.18-15.27.30:045][731]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.18-15.27.30:046][731]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.04.18-15.27.30:046][731]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.04.18-15.27.30:049][731]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.04.18-15.27.30:049][731]LogInit: FAudioDevice initialized with ID 2.
+[2024.04.18-15.27.30:049][731]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.04.18-15.27.30:049][731]LogAudio: Display: Audio Device (ID: 2) registered with world 'VRMap'.
+[2024.04.18-15.27.30:049][731]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.18-15.27.30:059][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-15.27.32:690][731]LogLoad: Game class is 'VRGameMode_C'
+[2024.04.18-15.27.32:693][731]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2024.04.18-08.27.32
+[2024.04.18-15.27.32:697][731]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.04.18-15.27.32:698][731]LogWorld: Bringing up level for play took: 0.007524
+[2024.04.18-15.27.32:706][731]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.18-15.27.32:712][731]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.18-15.27.32:714][731]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.18-15.27.32:714][731]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.18-15.27.32:714][731]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.18-15.27.32:715][731]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.18-15.27.32:715][731]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.18-15.27.32:715][731]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2024.04.18-15.27.32:716][731]LogHMD: SetSpectatorScreenMode(6).
+[2024.04.18-15.27.32:717][731]LogBlueprintUserMessages: [FlatscreenUI_C_0] Server: Port_C_1
+[2024.04.18-15.27.32:732][731]vr.PixelDensity = "1"
+[2024.04.18-15.27.32:745][731]PIE: Server logged in
+[2024.04.18-15.27.32:753][731]PIE: Play in editor total start time 2.792 seconds.
+[2024.04.18-15.27.33:004][731]LogViewport: Scene viewport resized to 4464x2292, mode Windowed.
+[2024.04.18-15.27.33:030][731]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.04.18-15.27.33:054][731]LogRenderer: Warning: Resizing VR buffer to 3176 by 1628
+[2024.04.18-15.27.33:130][732]LogAutomationController: Ignoring very large delta of 3.18 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.18-15.27.33:144][732]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.04.18-15.27.34:006][765]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.27.35:001][813]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.27.36:026][863]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.27.37:042][912]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.27.38:046][961]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.27.39:068][ 11]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.27.40:060][ 60]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.27.41:094][108]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.27.43:115][175]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.27.44:123][211]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.27.45:154][248]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.27.46:158][284]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.27.47:161][320]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.27.48:164][356]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.27.49:167][392]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.27.50:168][428]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.27.51:174][464]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.27.52:200][501]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.27.55:180][608]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.27.57:213][681]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.27.58:217][717]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.28.00:048][781]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.28.01:081][818]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.28.02:057][853]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.28.03:060][889]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.28.04:089][926]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.28.05:063][961]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.28.06:094][998]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.28.07:069][ 33]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.28.08:098][ 70]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.28.09:101][106]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.28.10:103][142]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.28.11:106][178]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.28.12:110][214]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.28.13:109][250]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.28.14:141][287]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.28.15:143][323]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.28.16:148][359]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.28.17:123][394]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.28.18:123][430]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.28.19:096][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-15.28.19:096][464]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRMap
+[2024.04.18-15.28.19:201][464]LogSlate: Window 'Limeviathan Preview [NetMode: Server 0]  (64-bit/PC D3D SM5) OpenXR SteamVR/OpenXR (2.4.4)' being destroyed
+[2024.04.18-15.28.19:204][464]LogWorld: UWorld::CleanupWorld for VRMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-15.28.19:205][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.28.19:206][464]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2024.04.18-15.28.19:206][464]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2024.04.18-15.28.19:206][464]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2024.04.18-15.28.19:209][464]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.18-15.28.19:216][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.28.19:239][464]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.18-15.28.19:240][464]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.18-15.28.19:240][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.18-15.28.19:242][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.18-15.28.19:255][464]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.18-15.28.19:255][464]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.18-15.28.19:258][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2024.04.18-15.28.19:319][465]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.04.18-15.29.11:815][666]BlueprintLog: New page: Compile VRPawn
+[2024.04.18-15.29.11:984][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.04.18-15.29.12:839][690]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-15.29.12:918][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2024.04.18-15.29.13:093][690]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2024.04.18-15.29.13:095][690]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/VRPawn64C081EC4584000DEB31C1A3921C4ABE.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2024.04.18-15.29.13:110][690]LogFileHelpers: InternalPromptForCheckoutAndSave took 271 ms (total: 1.41 sec)
+[2024.04.18-15.29.13:114][690]AssetCheck: New page: Asset Save: VRPawn
+[2024.04.18-15.29.13:114][690]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.04.18-15.29.16:690][921]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.18-15.29.16:701][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.18-15.29.16:701][921]PIE: New page: PIE session: VRMap (Apr 18, 2024, 1:29:16 AM)
+[2024.04.18-15.29.16:701][921]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRMap
+[2024.04.18-15.29.16:708][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006929s)
+[2024.04.18-15.29.16:708][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRMap.VRMap to /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap (0.006975s)
+[2024.04.18-15.29.16:733][921]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.04.18-15.29.16:738][921]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-15.29.16:738][921]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-15.29.16:739][921]LogAIModule: Creating AISystem for world VRMap
+[2024.04.18-15.29.16:739][921]LogPlayLevel: PIE: World Init took: (0.001464s)
+[2024.04.18-15.29.16:739][921]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.18-15.29.16:739][921]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.18-15.29.16:739][921]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.18-15.29.16:739][921]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.18-15.29.16:739][921]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.18-15.29.16:739][921]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.18-15.29.16:739][921]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.18-15.29.16:739][921]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.18-15.29.16:739][921]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.18-15.29.16:740][921]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.18-15.29.16:740][921]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.18-15.29.16:740][921]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.18-15.29.16:743][921]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.18-15.29.16:769][921]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.04.18-15.29.16:769][921]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.18-15.29.16:769][921]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.18-15.29.16:769][921]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.18-15.29.16:770][921]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.04.18-15.29.16:770][921]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.04.18-15.29.16:773][921]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.04.18-15.29.16:773][921]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.04.18-15.29.16:773][921]LogInit: FAudioDevice initialized with ID 3.
+[2024.04.18-15.29.16:773][921]LogAudio: Display: Audio Device (ID: 3) registered with world 'VRMap'.
+[2024.04.18-15.29.16:773][921]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.18-15.29.16:781][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-15.29.19:391][921]LogLoad: Game class is 'VRGameMode_C'
+[2024.04.18-15.29.19:393][921]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2024.04.18-08.29.19
+[2024.04.18-15.29.19:397][921]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.04.18-15.29.19:398][921]LogWorld: Bringing up level for play took: 0.005903
+[2024.04.18-15.29.19:402][921]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.18-15.29.19:405][921]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.18-15.29.19:406][921]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.18-15.29.19:406][921]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.18-15.29.19:406][921]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.18-15.29.19:406][921]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.18-15.29.19:406][921]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.18-15.29.19:406][921]LogNet: GameNetDriver IpNetDriver_1 IpNetDriver listening on port 17777
+[2024.04.18-15.29.19:407][921]LogHMD: SetSpectatorScreenMode(6).
+[2024.04.18-15.29.19:407][921]LogBlueprintUserMessages: [FlatscreenUI_C_0] Server: Port_C_1
+[2024.04.18-15.29.19:418][921]vr.PixelDensity = "1"
+[2024.04.18-15.29.19:433][921]PIE: Server logged in
+[2024.04.18-15.29.19:440][921]PIE: Play in editor total start time 2.739 seconds.
+[2024.04.18-15.29.19:545][921]LogViewport: Scene viewport resized to 4464x2292, mode Windowed.
+[2024.04.18-15.29.19:576][921]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.04.18-15.29.19:647][921]LogAutomationController: Ignoring very large delta of 2.96 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.18-15.29.19:650][922]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.04.18-15.29.20:496][952]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.21:525][989]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.22:499][ 24]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.24:521][ 94]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.26:554][167]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.27:556][203]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.28:530][238]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.29:589][276]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.30:372][303]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.31:423][341]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.32:427][377]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.33:431][413]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.34:434][449]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.35:437][485]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.36:438][521]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.37:441][557]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.38:417][592]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.39:418][628]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.40:448][665]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.41:423][700]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.42:425][736]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.43:428][772]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.44:459][809]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.45:460][845]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.46:463][881]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.47:437][916]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.48:468][953]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.49:449][988]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.29.49:538][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-15.29.49:538][990]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRMap
+[2024.04.18-15.29.49:653][990]LogSlate: Window 'Limeviathan Preview [NetMode: Server 0]  (64-bit/PC D3D SM5) OpenXR SteamVR/OpenXR (2.4.4)' being destroyed
+[2024.04.18-15.29.49:656][990]LogWorld: UWorld::CleanupWorld for VRMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-15.29.49:658][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.29.49:659][990]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2024.04.18-15.29.49:659][990]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2024.04.18-15.29.49:659][990]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2024.04.18-15.29.49:664][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.18-15.29.49:670][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.29.49:692][990]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.18-15.29.49:693][990]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.18-15.29.49:693][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.18-15.29.49:696][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.18-15.29.49:708][990]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.18-15.29.49:708][990]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.18-15.29.49:710][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.04.18-15.29.49:773][991]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.04.18-15.30.40:055][ 70]LogShaderCompilers: Display: ================================================
+[2024.04.18-15.30.40:056][ 70]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.18-15.30.40:056][ 70]LogShaderCompilers: Display: Total job queries 8, among them cache hits 0 (0.00%)
+[2024.04.18-15.30.40:056][ 70]LogShaderCompilers: Display: Tracking 8 distinct input hashes that result in 8 distinct outputs (100.00%)
+[2024.04.18-15.30.40:056][ 70]LogShaderCompilers: Display: RAM used: 20.39 KiB of 819.20 MiB budget. Usage: 0.00%
+[2024.04.18-15.30.40:056][ 70]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.18-15.30.40:056][ 70]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.18-15.30.40:056][ 70]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.18-15.30.40:056][ 70]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.18-15.30.40:056][ 70]LogShaderCompilers: Display: ================================================
+[2024.04.18-15.30.46:265][358]BlueprintLog: New page: Compile Tentacles
+[2024.04.18-15.30.46:431][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.04.18-15.30.47:200][377]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-15.30.47:269][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/Tentacles" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Tentacles.uasset" SILENT=true
+[2024.04.18-15.30.47:308][377]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Tentacles
+[2024.04.18-15.30.47:311][377]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/Tentacles2A72E1894BA25963523273A8620B399F.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Tentacles.uasset'
+[2024.04.18-15.30.47:319][377]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 1.53 sec)
+[2024.04.18-15.30.47:322][377]AssetCheck: New page: Asset Save: Tentacles
+[2024.04.18-15.30.47:322][377]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/Tentacles.Tentacles
+[2024.04.18-15.30.57:757][977]LogEditorTransaction: Undo Add Node
+[2024.04.18-15.31.05:899][379]BlueprintLog: New page: Compile Projectile
+[2024.04.18-15.31.05:962][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.04.18-15.31.06:616][408]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-15.31.06:686][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/Projectile" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Projectile.uasset" SILENT=true
+[2024.04.18-15.31.06:705][408]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Projectile
+[2024.04.18-15.31.06:707][408]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/Projectile0160E5F14CA2CDAC12B15092A3D6B25C.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Projectile.uasset'
+[2024.04.18-15.31.06:717][408]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 1.63 sec)
+[2024.04.18-15.31.06:720][408]AssetCheck: New page: Asset Save: Projectile
+[2024.04.18-15.31.06:720][408]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/Projectile.Projectile
+[2024.04.18-15.31.15:230][989]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-15.31.15:344][991]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-15.31.34:939][ 82]BlueprintLog: New page: Compile VRPawn
+[2024.04.18-15.31.35:121][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2024.04.18-15.31.35:851][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-15.31.35:928][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2024.04.18-15.31.36:103][ 98]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2024.04.18-15.31.36:105][ 98]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/VRPawn492B6F374DE0962F15DC49816389D97F.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2024.04.18-15.31.36:122][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave took 270 ms (total: 1.90 sec)
+[2024.04.18-15.31.36:125][ 98]AssetCheck: New page: Asset Save: VRPawn
+[2024.04.18-15.31.36:125][ 98]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.04.18-15.31.37:980][210]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.18-15.31.37:993][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.18-15.31.37:993][210]PIE: New page: PIE session: VRMap (Apr 18, 2024, 1:31:37 AM)
+[2024.04.18-15.31.37:994][210]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRMap
+[2024.04.18-15.31.38:000][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006856s)
+[2024.04.18-15.31.38:000][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRMap.VRMap to /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap (0.006908s)
+[2024.04.18-15.31.38:025][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.04.18-15.31.38:032][210]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-15.31.38:033][210]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-15.31.38:033][210]LogAIModule: Creating AISystem for world VRMap
+[2024.04.18-15.31.38:034][210]LogPlayLevel: PIE: World Init took: (0.001378s)
+[2024.04.18-15.31.38:034][210]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.04.18-15.31.38:034][210]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.18-15.31.38:034][210]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.18-15.31.38:034][210]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.18-15.31.38:034][210]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.18-15.31.38:034][210]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.18-15.31.38:034][210]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.18-15.31.38:034][210]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.18-15.31.38:034][210]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.18-15.31.38:034][210]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.18-15.31.38:034][210]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.18-15.31.38:034][210]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.18-15.31.38:038][210]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.18-15.31.38:064][210]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.04.18-15.31.38:064][210]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.18-15.31.38:064][210]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.18-15.31.38:064][210]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.18-15.31.38:066][210]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.04.18-15.31.38:066][210]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.04.18-15.31.38:068][210]LogInit: FAudioDevice initialized with ID 4.
+[2024.04.18-15.31.38:068][210]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.04.18-15.31.38:069][210]LogAudio: Display: Audio Device (ID: 4) registered with world 'VRMap'.
+[2024.04.18-15.31.38:069][210]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.04.18-15.31.38:069][210]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.04.18-15.31.38:076][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-15.31.40:677][210]LogLoad: Game class is 'VRGameMode_C'
+[2024.04.18-15.31.40:680][210]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2024.04.18-08.31.40
+[2024.04.18-15.31.40:683][210]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.04.18-15.31.40:684][210]LogWorld: Bringing up level for play took: 0.006084
+[2024.04.18-15.31.40:687][210]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.18-15.31.40:691][210]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.18-15.31.40:692][210]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.18-15.31.40:692][210]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.18-15.31.40:692][210]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.18-15.31.40:692][210]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.18-15.31.40:692][210]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.18-15.31.40:692][210]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2024.04.18-15.31.40:693][210]LogHMD: SetSpectatorScreenMode(6).
+[2024.04.18-15.31.40:693][210]LogBlueprintUserMessages: [FlatscreenUI_C_0] Server: Port_C_1
+[2024.04.18-15.31.40:706][210]vr.PixelDensity = "1"
+[2024.04.18-15.31.40:717][210]PIE: Server logged in
+[2024.04.18-15.31.40:723][210]PIE: Play in editor total start time 2.73 seconds.
+[2024.04.18-15.31.40:828][210]LogViewport: Scene viewport resized to 4464x2292, mode Windowed.
+[2024.04.18-15.31.40:859][210]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.04.18-15.31.40:927][211]LogAutomationController: Ignoring very large delta of 2.95 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.18-15.31.40:932][211]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.04.18-15.31.41:822][242]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.31.42:797][277]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.31.42:797][277]LogBlueprintUserMessages: [Projectile_C_1] Server: Hello
+[2024.04.18-15.31.43:828][314]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.31.44:805][347]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.31.44:805][347]LogBlueprintUserMessages: [Projectile_C_3] Server: Hello
+[2024.04.18-15.31.45:836][384]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.31.46:839][420]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.31.47:815][455]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.31.47:815][455]LogBlueprintUserMessages: [Projectile_C_6] Server: Hello
+[2024.04.18-15.31.48:818][491]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.31.48:818][491]LogBlueprintUserMessages: [Projectile_C_7] Server: Hello
+[2024.04.18-15.31.49:847][528]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.31.49:847][528]LogBlueprintUserMessages: [Projectile_C_8] Server: Hello
+[2024.04.18-15.31.50:850][564]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.31.51:826][599]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.31.51:826][599]LogBlueprintUserMessages: [Projectile_C_10] Server: Hello
+[2024.04.18-15.31.52:826][635]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.31.52:826][635]LogBlueprintUserMessages: [Projectile_C_11] Server: Hello
+[2024.04.18-15.31.53:828][671]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.31.53:828][671]LogBlueprintUserMessages: [Projectile_C_12] Server: Hello
+[2024.04.18-15.31.54:831][707]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.31.54:831][707]LogBlueprintUserMessages: [Projectile_C_13] Server: Hello
+[2024.04.18-15.31.55:806][742]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.31.55:806][742]LogBlueprintUserMessages: [Projectile_C_14] Server: Hello
+[2024.04.18-15.31.56:835][779]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.31.56:835][779]LogBlueprintUserMessages: [Projectile_C_15] Server: Hello
+[2024.04.18-15.31.57:838][815]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.31.58:841][851]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.31.58:841][851]LogBlueprintUserMessages: [Projectile_C_17] Server: Hello
+[2024.04.18-15.31.59:843][887]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.31.59:843][887]LogBlueprintUserMessages: [Projectile_C_18] Server: Hello
+[2024.04.18-15.32.01:879][958]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.32.02:847][992]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.32.02:847][992]LogBlueprintUserMessages: [Projectile_C_21] Server: Hello
+[2024.04.18-15.32.03:431][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-15.32.03:431][ 12]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRMap
+[2024.04.18-15.32.03:522][ 12]LogSlate: Window 'Limeviathan Preview [NetMode: Server 0]  (64-bit/PC D3D SM5) OpenXR SteamVR/OpenXR (2.4.4)' being destroyed
+[2024.04.18-15.32.03:524][ 12]LogWorld: UWorld::CleanupWorld for VRMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-15.32.03:525][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.32.03:526][ 12]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2024.04.18-15.32.03:526][ 12]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2024.04.18-15.32.03:526][ 12]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2024.04.18-15.32.03:531][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.18-15.32.03:538][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.32.03:564][ 12]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.18-15.32.03:565][ 12]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.04.18-15.32.03:565][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.18-15.32.03:568][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.18-15.32.03:581][ 12]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.18-15.32.03:581][ 12]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.18-15.32.03:584][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.04.18-15.32.03:653][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.04.18-15.33.26:110][728]BlueprintLog: New page: Compile VRPawn
+[2024.04.18-15.33.26:260][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.04.18-15.33.26:826][751]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-15.33.26:887][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2024.04.18-15.33.27:058][751]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2024.04.18-15.33.27:059][751]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/VRPawn0A4A8CA54FA5A052C610FDA172C435AE.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2024.04.18-15.33.27:068][751]LogFileHelpers: InternalPromptForCheckoutAndSave took 242 ms (total: 2.14 sec)
+[2024.04.18-15.33.27:072][751]AssetCheck: New page: Asset Save: VRPawn
+[2024.04.18-15.33.27:072][751]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.04.18-15.35.24:525][883]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.18-15.35.24:537][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.18-15.35.24:537][883]PIE: New page: PIE session: VRMap (Apr 18, 2024, 1:35:24 AM)
+[2024.04.18-15.35.24:537][883]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRMap
+[2024.04.18-15.35.24:544][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007030s)
+[2024.04.18-15.35.24:544][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRMap.VRMap to /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap (0.007081s)
+[2024.04.18-15.35.24:569][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.04.18-15.35.24:575][883]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-15.35.24:575][883]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-15.35.24:575][883]LogAIModule: Creating AISystem for world VRMap
+[2024.04.18-15.35.24:575][883]LogPlayLevel: PIE: World Init took: (0.001414s)
+[2024.04.18-15.35.24:575][883]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.04.18-15.35.24:576][883]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.18-15.35.24:576][883]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.18-15.35.24:576][883]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.18-15.35.24:576][883]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.18-15.35.24:576][883]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.18-15.35.24:576][883]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.18-15.35.24:576][883]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.18-15.35.24:576][883]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.18-15.35.24:576][883]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.18-15.35.24:576][883]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.18-15.35.24:576][883]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.18-15.35.24:580][883]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.18-15.35.24:605][883]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.04.18-15.35.24:605][883]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.18-15.35.24:605][883]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.18-15.35.24:606][883]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.18-15.35.24:607][883]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.04.18-15.35.24:607][883]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.04.18-15.35.24:610][883]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.04.18-15.35.24:610][883]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.04.18-15.35.24:610][883]LogInit: FAudioDevice initialized with ID 5.
+[2024.04.18-15.35.24:610][883]LogAudio: Display: Audio Device (ID: 5) registered with world 'VRMap'.
+[2024.04.18-15.35.24:610][883]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.18-15.35.24:618][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-15.35.27:231][883]LogLoad: Game class is 'VRGameMode_C'
+[2024.04.18-15.35.27:234][883]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2024.04.18-08.35.27
+[2024.04.18-15.35.27:237][883]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.04.18-15.35.27:238][883]LogWorld: Bringing up level for play took: 0.005866
+[2024.04.18-15.35.27:241][883]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.18-15.35.27:244][883]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.18-15.35.27:245][883]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.18-15.35.27:245][883]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.18-15.35.27:245][883]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.18-15.35.27:246][883]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.18-15.35.27:246][883]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.18-15.35.27:246][883]LogNet: GameNetDriver IpNetDriver_3 IpNetDriver listening on port 17777
+[2024.04.18-15.35.27:246][883]LogHMD: SetSpectatorScreenMode(6).
+[2024.04.18-15.35.27:246][883]LogBlueprintUserMessages: [FlatscreenUI_C_0] Server: Port_C_1
+[2024.04.18-15.35.27:258][883]vr.PixelDensity = "1"
+[2024.04.18-15.35.27:267][883]PIE: Server logged in
+[2024.04.18-15.35.27:272][883]PIE: Play in editor total start time 2.736 seconds.
+[2024.04.18-15.35.27:419][883]LogViewport: Scene viewport resized to 4464x2292, mode Windowed.
+[2024.04.18-15.35.27:447][883]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.04.18-15.35.27:508][883]LogAutomationController: Ignoring very large delta of 2.98 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.18-15.35.27:516][884]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.04.18-15.35.28:457][891]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.35.28:457][891]LogBlueprintUserMessages: [Projectile_C_0] Server: Hello
+[2024.04.18-15.35.30:460][907]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent5 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.35.30:460][907]LogBlueprintUserMessages: [Projectile_C_2] Server: Hello
+[2024.04.18-15.35.31:464][915]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent4 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.35.32:524][934]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent3 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.35.33:502][969]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent2 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.35.33:502][969]LogBlueprintUserMessages: [Projectile_C_5] Server: Hello
+[2024.04.18-15.35.34:534][  6]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent1 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.35.35:542][ 42]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.LeftTent owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.35.35:542][ 42]LogBlueprintUserMessages: [Projectile_C_7] Server: Hello
+[2024.04.18-15.35.36:040][ 60]LogNet: Browse: /Game/VRTemplate/Maps/VRMap
+[2024.04.18-15.35.36:040][ 60]LogLoad: LoadMap: /Game/VRTemplate/Maps/VRMap
+[2024.04.18-15.35.36:040][ 60]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRMap
+[2024.04.18-15.35.36:040][ 60]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2024.04.18-15.35.36:040][ 60]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2024.04.18-15.35.36:040][ 60]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2024.04.18-15.35.36:041][ 60]LogWorld: UWorld::CleanupWorld for VRMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-15.35.36:042][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.35.36:064][ 60]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.18-15.35.36:069][ 60]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.18-15.35.36:069][ 60]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.18-15.35.36:071][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.04.18-15.35.36:074][ 60]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRMap
+[2024.04.18-15.35.36:081][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007109s)
+[2024.04.18-15.35.36:081][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRMap.VRMap to /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap (0.007183s)
+[2024.04.18-15.35.36:081][ 60]LogAudio: Display: Audio Device (ID: 5) registered with world 'VRMap'.
+[2024.04.18-15.35.36:081][ 60]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-15.35.36:082][ 60]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-15.35.36:082][ 60]LogAIModule: Creating AISystem for world VRMap
+[2024.04.18-15.35.36:083][ 60]LogPlayLevel: PIE: World Init took: (0.001559s)
+[2024.04.18-15.35.36:083][ 60]LogLoad: Game class is 'VRGameMode_C'
+[2024.04.18-15.35.36:085][ 60]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2024.04.18-08.35.36
+[2024.04.18-15.35.36:085][ 60]LogWorld: Bringing up level for play took: 0.002293
+[2024.04.18-15.35.36:089][ 60]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.18-15.35.36:092][ 60]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.18-15.35.36:092][ 60]LogHMD: SetSpectatorScreenMode(6).
+[2024.04.18-15.35.36:094][ 60]LogBlueprintUserMessages: [FlatscreenUI_C_1] Port_C_1
+[2024.04.18-15.35.36:103][ 60]vr.PixelDensity = "1"
+[2024.04.18-15.35.36:104][ 60]LogLoad: Took 0.063988 seconds to LoadMap(/Game/VRTemplate/Maps/UEDPIE_0_VRMap)
+[2024.04.18-15.35.37:315][ 95]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.35.37:315][ 95]LogBlueprintUserMessages: [Projectile_C_0] Hello
+[2024.04.18-15.35.38:317][131]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent5 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.35.39:295][166]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent4 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.35.39:295][166]LogBlueprintUserMessages: [Projectile_C_2] Hello
+[2024.04.18-15.35.40:298][202]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent3 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.35.40:298][202]LogBlueprintUserMessages: [Projectile_C_3] Hello
+[2024.04.18-15.35.41:328][239]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent2 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.35.41:329][239]LogBlueprintUserMessages: [Projectile_C_4] Hello
+[2024.04.18-15.35.42:333][275]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent1 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.35.43:837][329]LogNet: Browse: /Game/VRTemplate/Maps/VRMap
+[2024.04.18-15.35.43:837][329]LogLoad: LoadMap: /Game/VRTemplate/Maps/VRMap
+[2024.04.18-15.35.43:837][329]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRMap
+[2024.04.18-15.35.43:838][329]LogWorld: UWorld::CleanupWorld for VRMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-15.35.43:839][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.35.43:861][329]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.18-15.35.43:864][329]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.18-15.35.43:865][329]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.18-15.35.43:867][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.04.18-15.35.43:870][329]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRMap
+[2024.04.18-15.35.43:876][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006779s)
+[2024.04.18-15.35.43:876][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRMap.VRMap to /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap (0.006851s)
+[2024.04.18-15.35.43:876][329]LogAudio: Display: Audio Device (ID: 5) registered with world 'VRMap'.
+[2024.04.18-15.35.43:876][329]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-15.35.43:877][329]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-15.35.43:877][329]LogAIModule: Creating AISystem for world VRMap
+[2024.04.18-15.35.43:878][329]LogPlayLevel: PIE: World Init took: (0.001309s)
+[2024.04.18-15.35.43:878][329]LogLoad: Game class is 'VRGameMode_C'
+[2024.04.18-15.35.43:880][329]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2024.04.18-08.35.43
+[2024.04.18-15.35.43:881][329]LogWorld: Bringing up level for play took: 0.002238
+[2024.04.18-15.35.43:885][329]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.18-15.35.43:887][329]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.18-15.35.43:888][329]LogHMD: SetSpectatorScreenMode(6).
+[2024.04.18-15.35.43:888][329]LogBlueprintUserMessages: [FlatscreenUI_C_2] Port_C_1
+[2024.04.18-15.35.43:898][329]vr.PixelDensity = "1"
+[2024.04.18-15.35.43:898][329]LogLoad: Took 0.061653 seconds to LoadMap(/Game/VRTemplate/Maps/UEDPIE_0_VRMap)
+[2024.04.18-15.35.45:111][365]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent6 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.35.46:115][401]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent5 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.35.47:122][437]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent4 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.35.47:122][437]LogBlueprintUserMessages: [Projectile_C_2] Hello
+[2024.04.18-15.35.48:121][473]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent3 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.35.48:121][473]LogBlueprintUserMessages: [Projectile_C_3] Hello
+[2024.04.18-15.35.51:133][581]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent2 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.35.51:133][581]LogBlueprintUserMessages: [Projectile_C_6] Hello
+[2024.04.18-15.35.52:136][617]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.Tent1 owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.35.52:136][617]LogBlueprintUserMessages: [Projectile_C_7] Hello
+[2024.04.18-15.35.53:456][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-15.35.53:456][663]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRMap
+[2024.04.18-15.35.53:653][663]LogSlate: Window 'Limeviathan Preview [NetMode: Server 0]  (64-bit/PC D3D SM5) OpenXR SteamVR/OpenXR (2.4.4)' being destroyed
+[2024.04.18-15.35.53:657][663]LogWorld: UWorld::CleanupWorld for VRMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-15.35.53:657][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.35.53:660][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.18-15.35.53:668][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.35.53:688][663]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.18-15.35.53:689][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.18-15.35.53:691][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.18-15.35.53:705][663]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.18-15.35.53:705][663]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.18-15.35.53:708][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.04.18-15.35.53:769][664]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.04.18-15.36.21:389][651]BlueprintLog: New page: Compile VRPawn
+[2024.04.18-15.36.21:537][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.04.18-15.36.22:449][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-15.36.22:511][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2024.04.18-15.36.22:687][696]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2024.04.18-15.36.22:689][696]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/VRPawn6B501CD846C5826B114FFDA50A2F02BA.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2024.04.18-15.36.22:700][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 251 ms (total: 2.40 sec)
+[2024.04.18-15.36.22:705][696]AssetCheck: New page: Asset Save: VRPawn
+[2024.04.18-15.36.22:705][696]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.04.18-15.36.24:617][836]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.18-15.36.24:629][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.18-15.36.24:629][836]PIE: New page: PIE session: VRMap (Apr 18, 2024, 1:36:24 AM)
+[2024.04.18-15.36.24:629][836]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRMap
+[2024.04.18-15.36.24:637][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006964s)
+[2024.04.18-15.36.24:637][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRMap.VRMap to /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap (0.007011s)
+[2024.04.18-15.36.24:660][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.04.18-15.36.24:666][836]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-15.36.24:666][836]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-15.36.24:667][836]LogAIModule: Creating AISystem for world VRMap
+[2024.04.18-15.36.24:667][836]LogPlayLevel: PIE: World Init took: (0.001292s)
+[2024.04.18-15.36.24:667][836]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.04.18-15.36.24:667][836]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.18-15.36.24:667][836]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.18-15.36.24:667][836]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.18-15.36.24:667][836]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.18-15.36.24:667][836]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.18-15.36.24:667][836]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.18-15.36.24:667][836]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.18-15.36.24:667][836]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.18-15.36.24:668][836]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.18-15.36.24:668][836]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.18-15.36.24:668][836]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.18-15.36.24:670][836]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.18-15.36.24:696][836]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.04.18-15.36.24:696][836]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.18-15.36.24:696][836]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.18-15.36.24:696][836]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.18-15.36.24:697][836]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.04.18-15.36.24:697][836]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.04.18-15.36.24:700][836]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.04.18-15.36.24:700][836]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.04.18-15.36.24:700][836]LogInit: FAudioDevice initialized with ID 6.
+[2024.04.18-15.36.24:700][836]LogAudio: Display: Audio Device (ID: 6) registered with world 'VRMap'.
+[2024.04.18-15.36.24:700][836]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.18-15.36.24:709][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-15.36.27:848][836]LogLoad: Game class is 'VRGameMode_C'
+[2024.04.18-15.36.27:851][836]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2024.04.18-08.36.27
+[2024.04.18-15.36.27:854][836]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.04.18-15.36.27:855][836]LogWorld: Bringing up level for play took: 0.006036
+[2024.04.18-15.36.27:859][836]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.18-15.36.27:862][836]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.18-15.36.27:863][836]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.18-15.36.27:863][836]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.18-15.36.27:863][836]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.18-15.36.27:863][836]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.18-15.36.27:863][836]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.18-15.36.27:863][836]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2024.04.18-15.36.27:864][836]LogHMD: SetSpectatorScreenMode(6).
+[2024.04.18-15.36.27:864][836]LogBlueprintUserMessages: [FlatscreenUI_C_0] Server: Port_C_1
+[2024.04.18-15.36.27:877][836]vr.PixelDensity = "1"
+[2024.04.18-15.36.27:886][836]PIE: Server logged in
+[2024.04.18-15.36.27:893][836]PIE: Play in editor total start time 3.264 seconds.
+[2024.04.18-15.36.28:040][836]LogViewport: Scene viewport resized to 4464x2292, mode Windowed.
+[2024.04.18-15.36.28:070][836]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.04.18-15.36.28:133][836]LogAutomationController: Ignoring very large delta of 3.52 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.18-15.36.28:136][837]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.04.18-15.36.29:001][868]LogBlueprintUserMessages: [Projectile_C_0] Server: Hello
+[2024.04.18-15.36.30:003][904]LogBlueprintUserMessages: [Projectile_C_1] Server: Hello
+[2024.04.18-15.36.31:008][940]LogBlueprintUserMessages: [Projectile_C_2] Server: Hello
+[2024.04.18-15.36.33:043][ 13]LogBlueprintUserMessages: [Projectile_C_4] Server: Hello
+[2024.04.18-15.36.35:023][ 84]LogActorComponent: Error: May not destroy component SkeletalMeshComponent /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.RightTent owned by Tentacles_C /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap:PersistentLevel.Tentacles_C_0.
+[2024.04.18-15.36.35:023][ 84]LogBlueprintUserMessages: [Projectile_C_6] Server: Hello
+[2024.04.18-15.36.35:544][103]LogNet: Browse: /Game/VRTemplate/Maps/VRMap
+[2024.04.18-15.36.35:544][103]LogLoad: LoadMap: /Game/VRTemplate/Maps/VRMap
+[2024.04.18-15.36.35:544][103]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRMap
+[2024.04.18-15.36.35:545][103]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2024.04.18-15.36.35:545][103]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2024.04.18-15.36.35:545][103]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2024.04.18-15.36.35:546][103]LogWorld: UWorld::CleanupWorld for VRMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-15.36.35:547][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.36.35:569][103]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.18-15.36.35:573][103]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.18-15.36.35:573][103]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.18-15.36.35:575][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.04.18-15.36.35:577][103]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRMap
+[2024.04.18-15.36.35:585][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007109s)
+[2024.04.18-15.36.35:585][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRMap.VRMap to /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap (0.007182s)
+[2024.04.18-15.36.35:585][103]LogAudio: Display: Audio Device (ID: 6) registered with world 'VRMap'.
+[2024.04.18-15.36.35:585][103]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-15.36.35:586][103]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-15.36.35:586][103]LogAIModule: Creating AISystem for world VRMap
+[2024.04.18-15.36.35:587][103]LogPlayLevel: PIE: World Init took: (0.001414s)
+[2024.04.18-15.36.35:587][103]LogLoad: Game class is 'VRGameMode_C'
+[2024.04.18-15.36.35:589][103]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2024.04.18-08.36.35
+[2024.04.18-15.36.35:590][103]LogWorld: Bringing up level for play took: 0.002451
+[2024.04.18-15.36.35:593][103]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.18-15.36.35:596][103]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.18-15.36.35:597][103]LogHMD: SetSpectatorScreenMode(6).
+[2024.04.18-15.36.35:597][103]LogBlueprintUserMessages: [FlatscreenUI_C_1] Port_C_1
+[2024.04.18-15.36.35:606][103]vr.PixelDensity = "1"
+[2024.04.18-15.36.35:606][103]LogLoad: Took 0.061799 seconds to LoadMap(/Game/VRTemplate/Maps/UEDPIE_0_VRMap)
+[2024.04.18-15.36.36:814][136]LogBlueprintUserMessages: [Projectile_C_0] Hello
+[2024.04.18-15.36.40:811][279]LogBlueprintUserMessages: [Projectile_C_4] Hello
+[2024.04.18-15.36.43:342][370]LogNet: Browse: /Game/VRTemplate/Maps/VRMap
+[2024.04.18-15.36.43:342][370]LogLoad: LoadMap: /Game/VRTemplate/Maps/VRMap
+[2024.04.18-15.36.43:342][370]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRMap
+[2024.04.18-15.36.43:343][370]LogWorld: UWorld::CleanupWorld for VRMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-15.36.43:344][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.36.43:366][370]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.18-15.36.43:370][370]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.18-15.36.43:370][370]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.18-15.36.43:372][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.04.18-15.36.43:375][370]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRMap
+[2024.04.18-15.36.43:381][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006872s)
+[2024.04.18-15.36.43:381][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRMap.VRMap to /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap (0.006948s)
+[2024.04.18-15.36.43:381][370]LogAudio: Display: Audio Device (ID: 6) registered with world 'VRMap'.
+[2024.04.18-15.36.43:382][370]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-15.36.43:382][370]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-15.36.43:382][370]LogAIModule: Creating AISystem for world VRMap
+[2024.04.18-15.36.43:383][370]LogPlayLevel: PIE: World Init took: (0.001494s)
+[2024.04.18-15.36.43:383][370]LogLoad: Game class is 'VRGameMode_C'
+[2024.04.18-15.36.43:385][370]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2024.04.18-08.36.43
+[2024.04.18-15.36.43:386][370]LogWorld: Bringing up level for play took: 0.002227
+[2024.04.18-15.36.43:389][370]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.18-15.36.43:392][370]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.18-15.36.43:393][370]LogHMD: SetSpectatorScreenMode(6).
+[2024.04.18-15.36.43:394][370]LogBlueprintUserMessages: [FlatscreenUI_C_2] Port_C_1
+[2024.04.18-15.36.43:402][370]vr.PixelDensity = "1"
+[2024.04.18-15.36.43:403][370]LogLoad: Took 0.061474 seconds to LoadMap(/Game/VRTemplate/Maps/UEDPIE_0_VRMap)
+[2024.04.18-15.36.44:760][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-15.36.44:760][410]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRMap
+[2024.04.18-15.36.44:891][410]LogSlate: Window 'Limeviathan Preview [NetMode: Server 0]  (64-bit/PC D3D SM5) OpenXR SteamVR/OpenXR (2.4.4)' being destroyed
+[2024.04.18-15.36.44:894][410]LogWorld: UWorld::CleanupWorld for VRMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-15.36.44:895][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.36.44:899][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.18-15.36.44:906][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.36.44:929][410]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.18-15.36.44:929][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.18-15.36.44:931][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.18-15.36.44:941][410]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.18-15.36.44:941][410]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.18-15.36.44:944][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.04.18-15.36.45:006][411]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.04.18-15.37.12:105][382]BlueprintLog: New page: Compile VRPawn
+[2024.04.18-15.37.12:255][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.04.18-15.37.12:829][404]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-15.37.12:897][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2024.04.18-15.37.13:068][404]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2024.04.18-15.37.13:070][404]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/VRPawn24D92F44442F680E30EE8B928E162E18.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2024.04.18-15.37.13:079][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 250 ms (total: 2.65 sec)
+[2024.04.18-15.37.13:083][404]AssetCheck: New page: Asset Save: VRPawn
+[2024.04.18-15.37.13:083][404]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.04.18-15.37.41:919][366]BlueprintLog: New page: Compile VRPawn
+[2024.04.18-15.37.42:074][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.04.18-15.37.43:107][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-15.37.43:163][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2024.04.18-15.37.43:327][398]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2024.04.18-15.37.43:329][398]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/VRPawnA51540FC40F583383646E885B5A1FEE0.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2024.04.18-15.37.43:340][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 232 ms (total: 2.88 sec)
+[2024.04.18-15.37.43:343][398]AssetCheck: New page: Asset Save: VRPawn
+[2024.04.18-15.37.43:344][398]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.04.18-15.39.15:424][819]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.04.18-15.39.15:440][819]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.18-15.40.58:869][458]BlueprintLog: New page: Compile Projectile
+[2024.04.18-15.40.58:925][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.04.18-15.40.59:541][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-15.40.59:612][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/Projectile" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Projectile.uasset" SILENT=true
+[2024.04.18-15.40.59:629][485]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Projectile
+[2024.04.18-15.40.59:632][485]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/Projectile0B81F3A94D9184A9342C879514A798FC.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Projectile.uasset'
+[2024.04.18-15.40.59:640][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 2.98 sec)
+[2024.04.18-15.40.59:642][485]AssetCheck: New page: Asset Save: Projectile
+[2024.04.18-15.40.59:643][485]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/Projectile.Projectile
+[2024.04.18-15.42.06:730][316]BlueprintLog: New page: Compile Projectile
+[2024.04.18-15.42.06:780][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.04.18-15.42.07:426][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-15.42.07:483][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/Projectile" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Projectile.uasset" SILENT=true
+[2024.04.18-15.42.07:500][347]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Projectile
+[2024.04.18-15.42.07:502][347]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/Projectile75E4AC4B410C1AC3738FD9AC115023E7.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Projectile.uasset'
+[2024.04.18-15.42.07:511][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 3.06 sec)
+[2024.04.18-15.42.07:513][347]AssetCheck: New page: Asset Save: Projectile
+[2024.04.18-15.42.07:513][347]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/Projectile.Projectile
