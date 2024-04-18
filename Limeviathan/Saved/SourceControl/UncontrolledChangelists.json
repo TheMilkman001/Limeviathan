@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Beta_Map_Test.umap",
+				"E:/Limeviathan/Limeviathan/Content/VRTemplate/Materials/Landscape_M.uasset",
+				"E:/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/HANDTREE.uasset",
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Tentacles.uasset",
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Baot.uasset",
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRPawn.uasset",
