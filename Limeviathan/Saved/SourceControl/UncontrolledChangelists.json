@@ -5,12 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/365755/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Materials/Landscape_M.uasset",
 				"D:/365755/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Beta_Map_Test.umap",
 				"D:/365755/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Beta_Map_Test_sharedassets/Grass_LayerInfo.uasset",
 				"D:/365755/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Beta_Map_Test_sharedassets/Gravel_LayerInfo.uasset",
 				"D:/365755/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Beta_Map_Test_sharedassets/Rock_LayerInfo.uasset",
 				"D:/365755/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Beta_Map_Test_sharedassets/Sand_LayerInfo.uasset",
+				"D:/365755/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Materials/Landscape_M.uasset",
+				"D:/365755/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Beta_Map_Test_BuiltData.uasset",
+				"D:/365755/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Materials/Landscape_M.uasset",
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Tentacles.uasset"
 			]
 		}
