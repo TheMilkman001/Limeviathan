@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Menu.uasset",
+				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRSpectator.uasset",
+				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Outline.uasset",
+				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Maps/VRMap.umap",
 				"D:/365755/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Beta_FINAL.umap",
 				"D:/365755/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Maps/BETA_FINAL22.umap",
 				"D:/365755/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Beta_Map_Test.umap",
@@ -47,9 +51,7 @@
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Port.uasset",
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/PortSelectionWidget.uasset",
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/FlatscreenUI.uasset",
-				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Menu.uasset",
-				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/FlatscreenUI.uasset",
-				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRSpectator.uasset"
+				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/FlatscreenUI.uasset"
 			]
 		}
 	]
