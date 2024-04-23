@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Menu.uasset",
+				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRSpectator.uasset",
+				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Baot.uasset",
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Tentacles.uasset",
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Baot.uasset",
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRPawn.uasset",
@@ -41,9 +44,7 @@
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/sherk_Cube.uasset",
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/sherk_Cone_005.uasset",
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/FlatscreenUI.uasset",
-				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Menu.uasset",
-				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/FlatscreenUI.uasset",
-				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRSpectator.uasset"
+				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/FlatscreenUI.uasset"
 			]
 		}
 	]
