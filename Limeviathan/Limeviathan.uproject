@@ -34,6 +34,17 @@
 		{
 			"Name": "Water",
 			"Enabled": true
+		},
+		{
+			"Name": "WMFCodecs",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
