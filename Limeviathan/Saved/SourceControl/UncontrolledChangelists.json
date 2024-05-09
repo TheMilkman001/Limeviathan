@@ -5,8 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Redo_Map.umap",
 				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/NewNiagaraSystem.uasset",
+=======
+				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Redo_Map.umap",
+				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/VRSpectator/Input/IMC_VRSpectator.uasset",
+				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRSpectator.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRPawn.uasset",
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Redo_Map.umap",
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Lemegalodon.uasset",
@@ -16,8 +22,7 @@
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Baot.uasset",
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/MedBoat.uasset",
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/BIGBOAT.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Port.uasset",
-				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Redo_Map.umap"
+				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Port.uasset"
 			]
 		}
 	]
