@@ -5,62 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Lime.uasset",
-				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Lemon.uasset",
-				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/boat.uasset",
-				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Redo_Map.umap",
-				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/MapTemplates/Materials/BasicAsset03.uasset",
-				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/BoatGoBye.uasset",
-				"C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset",
-				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/NewMaterial.uasset",
-				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/SherkGoBye.uasset",
-				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Projectile.uasset",
-				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRPawn.uasset",
-				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/LemonSquirt.uasset",
-				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/limeSquirt1.uasset",
-				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/BoatSquirt.uasset",
-				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Start_Menu.umap",
-				"C:/Users/super/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/NewNiagaraSystem.uasset",
-=======
-				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Redo_Map.umap",
-				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRSpectator.uasset",
-				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/SpectatorUI.uasset",
-				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/PortSelectionWidget.uasset",
-				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/UI_Follower.uasset",
-				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Logo_1.uasset",
-				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Buy_Icon.uasset",
-				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/LimeHealthBar.uasset",
-				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Untitled_Artwork_7.uasset",
->>>>>>> Stashed changes
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRPawn.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Redo_Map.umap",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Lemegalodon.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRSpectator.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Audio/Cannon_Boom.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Tentacles.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Baot.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/MedBoat.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/BIGBOAT.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Port.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Input/Actions/IA_Wave_Attack_Left.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Input/Actions/IA_Wave_Attack_Right.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Input/IMC_Default.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Wave_Attack.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Input/Actions/IA_Grab_Right.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Input/Actions/IA_Scream.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/VRSpectator/Input/IMC_VRSpectator.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/VRSpectator/Input/Actions/IA_VRSpectator_Move.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/VRSpectator/Input/Actions/IA_VRSpectator_Controller_MoveX.uasset",
-<<<<<<< Updated upstream
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/VRSpectator/Input/Actions/IA_VRSpectator_Controller_MoveY.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Menu.uasset",
 				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Start_Menu.umap",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/VRSpectator/Input/Actions/IA_VRSpectator_Move_V2.uasset",
-				"D:/352262/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Redo_Map.umap"
-=======
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/VRSpectator/Input/Actions/IA_VRSpectator_Controller_MoveY.uasset"
->>>>>>> Stashed changes
+				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Start_Menu.uasset"
 			]
 		}
 	]
