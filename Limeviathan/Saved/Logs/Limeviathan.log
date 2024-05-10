@@ -3197,3 +3197,330 @@ The following settings have been applied:
 [2024.05.10-15.40.04:159][960]LogSlate: Slate User Destroyed.  User Index 9, Is Virtual User: 1
 [2024.05.10-15.40.04:164][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
 [2024.05.10-15.40.04:240][961]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.05.10-15.45.35:769][160]BlueprintLog: New page: Compile Baot
+[2024.05.10-15.45.35:895][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2024.05.10-15.45.36:717][176]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-15.45.36:790][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/Baot" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Baot.uasset" SILENT=true
+[2024.05.10-15.45.36:860][176]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Baot
+[2024.05.10-15.45.36:874][176]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/Baot2C2D38C44966E2975934D3B6E35BAE29.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Baot.uasset'
+[2024.05.10-15.45.36:889][176]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 5.02 sec)
+[2024.05.10-15.45.36:892][176]AssetCheck: New page: Asset Save: Baot
+[2024.05.10-15.45.36:892][176]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/Baot.Baot
+[2024.05.10-15.45.40:047][310]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.05.10-15.45.40:066][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.10-15.45.40:066][310]PIE: New page: PIE session: Redo_Map (May 10, 2024, 1:45:40 AM)
+[2024.05.10-15.45.40:066][310]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_Redo_Map
+[2024.05.10-15.45.40:124][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057456s)
+[2024.05.10-15.45.40:124][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/Redo_Map.Redo_Map to /Game/VRTemplate/Maps/UEDPIE_0_Redo_Map.Redo_Map (0.057503s)
+[2024.05.10-15.45.40:155][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.05.10-15.45.40:163][310]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.10-15.45.40:163][310]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.10-15.45.40:164][310]LogAIModule: Creating AISystem for world Redo_Map
+[2024.05.10-15.45.40:164][310]LogPlayLevel: PIE: World Init took: (0.001475s)
+[2024.05.10-15.45.40:164][310]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.05.10-15.45.40:164][310]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.10-15.45.40:164][310]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.10-15.45.40:164][310]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.10-15.45.40:164][310]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.10-15.45.40:164][310]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.10-15.45.40:164][310]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.10-15.45.40:164][310]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.10-15.45.40:164][310]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.10-15.45.40:165][310]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.10-15.45.40:165][310]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.10-15.45.40:165][310]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.10-15.45.40:169][310]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.10-15.45.40:196][310]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.05.10-15.45.40:196][310]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.10-15.45.40:196][310]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.10-15.45.40:196][310]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.10-15.45.40:197][310]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.05.10-15.45.40:197][310]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.05.10-15.45.40:201][310]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.05.10-15.45.40:201][310]LogInit: FAudioDevice initialized with ID 20.
+[2024.05.10-15.45.40:201][310]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.05.10-15.45.40:201][310]LogAudio: Display: Audio Device (ID: 20) registered with world 'Redo_Map'.
+[2024.05.10-15.45.40:201][310]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.05.10-15.45.40:210][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.10-15.45.43:327][310]LogLoad: Game class is 'VRGameMode_C'
+[2024.05.10-15.45.43:341][310]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_Redo_Map.Redo_Map up for play (max tick rate 0) at 2024.05.10-08.45.43
+[2024.05.10-15.45.43:345][310]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.05.10-15.45.43:347][310]LogWorld: Bringing up level for play took: 0.019384
+[2024.05.10-15.45.43:352][310]LogSlate: New Slate User Created. Platform User Id 9, User Index 9, Is Virtual User: 1
+[2024.05.10-15.45.43:356][310]LogSlate: Slate User Registered.  User Index 9, Is Virtual User: 1
+[2024.05.10-15.45.43:356][310]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.05.10-15.45.43:356][310]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.05.10-15.45.43:357][310]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.05.10-15.45.43:357][310]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.05.10-15.45.43:357][310]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.10-15.45.43:357][310]LogNet: GameNetDriver IpNetDriver_18 IpNetDriver listening on port 17777
+[2024.05.10-15.45.43:359][310]LogHMD: SetSpectatorScreenMode(6).
+[2024.05.10-15.45.43:360][310]vr.PixelDensity = "1"
+[2024.05.10-15.45.43:376][310]PIE: Server logged in
+[2024.05.10-15.45.43:391][310]PIE: Play in editor total start time 3.325 seconds.
+[2024.05.10-15.45.43:574][310]LogViewport: Scene viewport resized to 4464x2292, mode Windowed.
+[2024.05.10-15.45.43:628][310]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.05.10-15.45.44:703][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.10-15.45.44:703][318]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_Redo_Map
+[2024.05.10-15.45.44:844][318]LogSlate: Window 'Limeviathan Preview [NetMode: Server 0]  (64-bit/PC D3D SM5) OpenXR SteamVR/OpenXR (2.5.4)' being destroyed
+[2024.05.10-15.45.44:847][318]LogWorld: UWorld::CleanupWorld for Redo_Map, bSessionEnded=true, bCleanupResources=true
+[2024.05.10-15.45.44:850][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.10-15.45.44:850][318]LogNet: World NetDriver shutdown IpNetDriver_18 [GameNetDriver]
+[2024.05.10-15.45.44:851][318]LogNet: DestroyNamedNetDriver IpNetDriver_18 [GameNetDriver]
+[2024.05.10-15.45.44:851][318]LogExit: GameNetDriver IpNetDriver_18 shut down
+[2024.05.10-15.45.44:853][318]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.10-15.45.44:862][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.10-15.45.44:888][318]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.10-15.45.44:889][318]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.05.10-15.45.44:913][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.05.10-15.45.44:915][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.05.10-15.45.44:934][318]LogSlate: Slate User Unregistered.  User Index 9
+[2024.05.10-15.45.44:934][318]LogSlate: Slate User Destroyed.  User Index 9, Is Virtual User: 1
+[2024.05.10-15.45.44:936][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.05.10-15.45.45:102][319]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.05.10-15.45.46:839][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.10-15.45.46:839][365]PIE: New page: PIE session: Redo_Map (May 10, 2024, 1:45:46 AM)
+[2024.05.10-15.45.46:839][365]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_Redo_Map
+[2024.05.10-15.45.46:904][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064214s)
+[2024.05.10-15.45.46:904][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/Redo_Map.Redo_Map to /Game/VRTemplate/Maps/UEDPIE_0_Redo_Map.Redo_Map (0.064269s)
+[2024.05.10-15.45.46:928][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2024.05.10-15.45.46:931][365]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.10-15.45.46:932][365]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.10-15.45.46:932][365]LogAIModule: Creating AISystem for world Redo_Map
+[2024.05.10-15.45.46:933][365]LogPlayLevel: PIE: World Init took: (0.001816s)
+[2024.05.10-15.45.46:933][365]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.05.10-15.45.46:933][365]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.10-15.45.46:933][365]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.10-15.45.46:933][365]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.10-15.45.46:933][365]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.10-15.45.46:933][365]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.10-15.45.46:933][365]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.10-15.45.46:933][365]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.10-15.45.46:933][365]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.10-15.45.46:934][365]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.10-15.45.46:934][365]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.10-15.45.46:934][365]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.10-15.45.46:951][365]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.10-15.45.46:979][365]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.05.10-15.45.46:980][365]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.10-15.45.46:980][365]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.10-15.45.46:980][365]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.10-15.45.46:981][365]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.05.10-15.45.46:981][365]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.05.10-15.45.46:985][365]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.05.10-15.45.46:985][365]LogInit: FAudioDevice initialized with ID 21.
+[2024.05.10-15.45.46:985][365]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.05.10-15.45.46:985][365]LogAudio: Display: Audio Device (ID: 21) registered with world 'Redo_Map'.
+[2024.05.10-15.45.46:985][365]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.05.10-15.45.47:029][365]LogLoad: Game class is 'VRGameMode_C'
+[2024.05.10-15.45.47:045][365]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_Redo_Map.Redo_Map up for play (max tick rate 0) at 2024.05.10-08.45.47
+[2024.05.10-15.45.47:048][365]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.05.10-15.45.47:051][365]LogWorld: Bringing up level for play took: 0.020738
+[2024.05.10-15.45.47:055][365]LogSlate: New Slate User Created. Platform User Id 9, User Index 9, Is Virtual User: 1
+[2024.05.10-15.45.47:056][365]LogSlate: Slate User Registered.  User Index 9, Is Virtual User: 1
+[2024.05.10-15.45.47:056][365]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.05.10-15.45.47:056][365]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.05.10-15.45.47:057][365]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.05.10-15.45.47:057][365]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.05.10-15.45.47:057][365]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.10-15.45.47:057][365]LogNet: GameNetDriver IpNetDriver_19 IpNetDriver listening on port 17777
+[2024.05.10-15.45.47:059][365]LogBlueprintUserMessages: [VRSpectator_C_1] Server: Spectator Camera Debug Mode Enabled: No HMD!
+[2024.05.10-15.45.47:059][365]PIE: Server logged in
+[2024.05.10-15.45.47:061][365]PIE: Play in editor total start time 0.222 seconds.
+[2024.05.10-15.46.01:172][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.10-15.46.01:172][873]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_Redo_Map
+[2024.05.10-15.46.01:214][873]LogWorld: UWorld::CleanupWorld for Redo_Map, bSessionEnded=true, bCleanupResources=true
+[2024.05.10-15.46.01:216][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.10-15.46.01:228][873]LogNet: World NetDriver shutdown IpNetDriver_19 [GameNetDriver]
+[2024.05.10-15.46.01:228][873]LogNet: DestroyNamedNetDriver IpNetDriver_19 [GameNetDriver]
+[2024.05.10-15.46.01:228][873]LogExit: GameNetDriver IpNetDriver_19 shut down
+[2024.05.10-15.46.01:230][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.10-15.46.01:243][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.10-15.46.01:273][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.10-15.46.01:275][873]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.05.10-15.46.01:303][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.05.10-15.46.01:306][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.05.10-15.46.01:318][873]LogSlate: Slate User Unregistered.  User Index 9
+[2024.05.10-15.46.01:318][873]LogSlate: Slate User Destroyed.  User Index 9, Is Virtual User: 1
+[2024.05.10-15.46.01:322][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.05.10-15.46.01:474][874]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.05.10-15.46.04:590][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.10-15.46.04:590][999]PIE: New page: PIE session: Redo_Map (May 10, 2024, 1:46:04 AM)
+[2024.05.10-15.46.04:590][999]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_Redo_Map
+[2024.05.10-15.46.04:649][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059415s)
+[2024.05.10-15.46.04:649][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/Redo_Map.Redo_Map to /Game/VRTemplate/Maps/UEDPIE_0_Redo_Map.Redo_Map (0.059463s)
+[2024.05.10-15.46.04:676][999]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.05.10-15.46.04:680][999]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.10-15.46.04:680][999]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.10-15.46.04:681][999]LogAIModule: Creating AISystem for world Redo_Map
+[2024.05.10-15.46.04:681][999]LogPlayLevel: PIE: World Init took: (0.001541s)
+[2024.05.10-15.46.04:682][999]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.05.10-15.46.04:682][999]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.10-15.46.04:682][999]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.10-15.46.04:682][999]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.10-15.46.04:682][999]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.10-15.46.04:682][999]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.10-15.46.04:682][999]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.10-15.46.04:682][999]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.10-15.46.04:682][999]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.10-15.46.04:682][999]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.10-15.46.04:682][999]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.10-15.46.04:682][999]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.10-15.46.04:685][999]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.10-15.46.04:715][999]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.05.10-15.46.04:716][999]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.10-15.46.04:716][999]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.10-15.46.04:716][999]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.10-15.46.04:716][999]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.05.10-15.46.04:716][999]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.05.10-15.46.04:720][999]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.05.10-15.46.04:720][999]LogInit: FAudioDevice initialized with ID 22.
+[2024.05.10-15.46.04:720][999]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.05.10-15.46.04:720][999]LogAudio: Display: Audio Device (ID: 22) registered with world 'Redo_Map'.
+[2024.05.10-15.46.04:720][999]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.05.10-15.46.04:731][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.10-15.46.06:326][999]LogLoad: Game class is 'VRGameMode_C'
+[2024.05.10-15.46.06:339][999]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_Redo_Map.Redo_Map up for play (max tick rate 0) at 2024.05.10-08.46.06
+[2024.05.10-15.46.06:343][999]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.05.10-15.46.06:344][999]LogWorld: Bringing up level for play took: 0.018197
+[2024.05.10-15.46.06:348][999]LogSlate: New Slate User Created. Platform User Id 9, User Index 9, Is Virtual User: 1
+[2024.05.10-15.46.06:352][999]LogSlate: Slate User Registered.  User Index 9, Is Virtual User: 1
+[2024.05.10-15.46.06:353][999]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.05.10-15.46.06:353][999]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.05.10-15.46.06:353][999]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.05.10-15.46.06:353][999]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.05.10-15.46.06:353][999]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.10-15.46.06:353][999]LogNet: GameNetDriver IpNetDriver_20 IpNetDriver listening on port 17777
+[2024.05.10-15.46.06:355][999]LogHMD: SetSpectatorScreenMode(6).
+[2024.05.10-15.46.06:355][999]vr.PixelDensity = "1"
+[2024.05.10-15.46.06:370][999]PIE: Server logged in
+[2024.05.10-15.46.06:381][999]PIE: Play in editor total start time 1.791 seconds.
+[2024.05.10-15.46.06:501][999]LogViewport: Scene viewport resized to 4464x2292, mode Windowed.
+[2024.05.10-15.46.06:560][999]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.05.10-15.46.23:260][132]LogNet: Browse: /Game/VRTemplate/Maps/Redo_Map
+[2024.05.10-15.46.23:260][132]LogLoad: LoadMap: /Game/VRTemplate/Maps/Redo_Map
+[2024.05.10-15.46.23:260][132]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_Redo_Map
+[2024.05.10-15.46.23:260][132]LogNet: World NetDriver shutdown IpNetDriver_20 [GameNetDriver]
+[2024.05.10-15.46.23:260][132]LogNet: DestroyNamedNetDriver IpNetDriver_20 [GameNetDriver]
+[2024.05.10-15.46.23:260][132]LogExit: GameNetDriver IpNetDriver_20 shut down
+[2024.05.10-15.46.23:262][132]LogWorld: UWorld::CleanupWorld for Redo_Map, bSessionEnded=true, bCleanupResources=true
+[2024.05.10-15.46.23:264][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.10-15.46.23:292][132]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.10-15.46.23:373][132]LogSlate: Slate User Unregistered.  User Index 9
+[2024.05.10-15.46.23:373][132]LogSlate: Slate User Destroyed.  User Index 9, Is Virtual User: 1
+[2024.05.10-15.46.23:377][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.05.10-15.46.23:382][132]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_Redo_Map
+[2024.05.10-15.46.23:441][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059118s)
+[2024.05.10-15.46.23:441][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/Redo_Map.Redo_Map to /Game/VRTemplate/Maps/UEDPIE_0_Redo_Map.Redo_Map (0.059212s)
+[2024.05.10-15.46.23:441][132]LogAudio: Display: Audio Device (ID: 22) registered with world 'Redo_Map'.
+[2024.05.10-15.46.23:441][132]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.10-15.46.23:441][132]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.10-15.46.23:442][132]LogAIModule: Creating AISystem for world Redo_Map
+[2024.05.10-15.46.23:443][132]LogPlayLevel: PIE: World Init took: (0.001950s)
+[2024.05.10-15.46.23:443][132]LogLoad: Game class is 'VRGameMode_C'
+[2024.05.10-15.46.23:458][132]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_Redo_Map.Redo_Map up for play (max tick rate 0) at 2024.05.10-08.46.23
+[2024.05.10-15.46.23:460][132]LogWorld: Bringing up level for play took: 0.017052
+[2024.05.10-15.46.23:465][132]LogSlate: New Slate User Created. Platform User Id 9, User Index 9, Is Virtual User: 1
+[2024.05.10-15.46.23:469][132]LogSlate: Slate User Registered.  User Index 9, Is Virtual User: 1
+[2024.05.10-15.46.23:472][132]LogHMD: SetSpectatorScreenMode(6).
+[2024.05.10-15.46.23:473][132]vr.PixelDensity = "1"
+[2024.05.10-15.46.23:473][132]LogLoad: Took 0.212646 seconds to LoadMap(/Game/VRTemplate/Maps/UEDPIE_0_Redo_Map)
+[2024.05.10-15.47.49:817][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.10-15.47.49:817][188]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_Redo_Map
+[2024.05.10-15.47.49:950][188]LogSlate: Window 'Limeviathan Preview [NetMode: Server 0]  (64-bit/PC D3D SM5) OpenXR SteamVR/OpenXR (2.5.4)' being destroyed
+[2024.05.10-15.47.49:954][188]LogWorld: UWorld::CleanupWorld for Redo_Map, bSessionEnded=true, bCleanupResources=true
+[2024.05.10-15.47.49:956][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.10-15.47.49:960][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.10-15.47.49:971][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.10-15.47.49:995][188]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.05.10-15.47.50:036][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.05.10-15.47.50:039][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.05.10-15.47.50:053][188]LogSlate: Slate User Unregistered.  User Index 9
+[2024.05.10-15.47.50:053][188]LogSlate: Slate User Destroyed.  User Index 9, Is Virtual User: 1
+[2024.05.10-15.47.50:057][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.05.10-15.47.50:218][189]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.05.10-15.47.53:013][298]Cmd: MODE GRID=1
+[2024.05.10-15.47.53:263][298]Cmd: MODE GRID=0
+[2024.05.10-15.47.54:692][357]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.05.10-15.47.54:711][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.10-15.47.54:711][357]PIE: New page: PIE session: Redo_Map (May 10, 2024, 1:47:54 AM)
+[2024.05.10-15.47.54:712][357]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_Redo_Map
+[2024.05.10-15.47.54:771][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059980s)
+[2024.05.10-15.47.54:772][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/Redo_Map.Redo_Map to /Game/VRTemplate/Maps/UEDPIE_0_Redo_Map.Redo_Map (0.060034s)
+[2024.05.10-15.47.54:798][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2024.05.10-15.47.54:802][357]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.10-15.47.54:803][357]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.10-15.47.54:803][357]LogAIModule: Creating AISystem for world Redo_Map
+[2024.05.10-15.47.54:804][357]LogPlayLevel: PIE: World Init took: (0.001766s)
+[2024.05.10-15.47.54:804][357]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.05.10-15.47.54:804][357]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.10-15.47.54:804][357]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.10-15.47.54:804][357]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.10-15.47.54:804][357]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.10-15.47.54:804][357]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.10-15.47.54:804][357]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.10-15.47.54:804][357]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.10-15.47.54:804][357]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.10-15.47.54:805][357]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.10-15.47.54:805][357]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.10-15.47.54:805][357]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.10-15.47.54:808][357]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.10-15.47.54:834][357]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.05.10-15.47.54:834][357]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.10-15.47.54:834][357]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.10-15.47.54:834][357]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.10-15.47.54:835][357]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.05.10-15.47.54:835][357]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.05.10-15.47.54:839][357]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.05.10-15.47.54:839][357]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.05.10-15.47.54:839][357]LogInit: FAudioDevice initialized with ID 23.
+[2024.05.10-15.47.54:839][357]LogAudio: Display: Audio Device (ID: 23) registered with world 'Redo_Map'.
+[2024.05.10-15.47.54:839][357]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.05.10-15.47.54:850][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.10-15.47.59:969][357]LogLoad: Game class is 'VRGameMode_C'
+[2024.05.10-15.47.59:984][357]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_Redo_Map.Redo_Map up for play (max tick rate 0) at 2024.05.10-08.47.59
+[2024.05.10-15.47.59:988][357]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2024.05.10-15.47.59:990][357]LogWorld: Bringing up level for play took: 0.020176
+[2024.05.10-15.47.59:995][357]LogSlate: New Slate User Created. Platform User Id 9, User Index 9, Is Virtual User: 1
+[2024.05.10-15.47.59:999][357]LogSlate: Slate User Registered.  User Index 9, Is Virtual User: 1
+[2024.05.10-15.48.00:000][357]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.05.10-15.48.00:000][357]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.05.10-15.48.00:000][357]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.05.10-15.48.00:001][357]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.05.10-15.48.00:001][357]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.10-15.48.00:001][357]LogNet: GameNetDriver IpNetDriver_21 IpNetDriver listening on port 17777
+[2024.05.10-15.48.00:004][357]LogHMD: SetSpectatorScreenMode(6).
+[2024.05.10-15.48.00:005][357]vr.PixelDensity = "1"
+[2024.05.10-15.48.00:023][357]PIE: Server logged in
+[2024.05.10-15.48.00:035][357]PIE: Play in editor total start time 5.324 seconds.
+[2024.05.10-15.48.00:254][357]LogViewport: Scene viewport resized to 4464x2292, mode Windowed.
+[2024.05.10-15.48.00:301][357]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.05.10-15.48.00:380][358]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 5.67, Realtime: 0.17. IpNetDriver_21
+[2024.05.10-15.48.14:237][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.10-15.48.14:237][689]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_Redo_Map
+[2024.05.10-15.48.14:381][689]LogSlate: Window 'Limeviathan Preview [NetMode: Server 0]  (64-bit/PC D3D SM5) OpenXR SteamVR/OpenXR (2.5.4)' being destroyed
+[2024.05.10-15.48.14:385][689]LogWorld: UWorld::CleanupWorld for Redo_Map, bSessionEnded=true, bCleanupResources=true
+[2024.05.10-15.48.14:388][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.10-15.48.14:389][689]LogNet: World NetDriver shutdown IpNetDriver_21 [GameNetDriver]
+[2024.05.10-15.48.14:389][689]LogNet: DestroyNamedNetDriver IpNetDriver_21 [GameNetDriver]
+[2024.05.10-15.48.14:389][689]LogExit: GameNetDriver IpNetDriver_21 shut down
+[2024.05.10-15.48.14:393][689]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.10-15.48.14:403][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.10-15.48.14:428][689]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.05.10-15.48.14:466][689]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.05.10-15.48.14:472][689]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.05.10-15.48.14:487][689]LogSlate: Slate User Unregistered.  User Index 9
+[2024.05.10-15.48.14:487][689]LogSlate: Slate User Destroyed.  User Index 9, Is Virtual User: 1
+[2024.05.10-15.48.14:490][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.05.10-15.48.14:669][690]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2024.05.10-15.48.37:425][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.05.10-15.48.38:332][702]LogSlate: Window 'Save Content' being destroyed
+[2024.05.10-15.48.38:357][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-15.48.38:489][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.05.10-15.48.38:848][702]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/Redo_Map
+[2024.05.10-15.48.38:851][702]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/Redo_Map52916360467B355B596977AB86F3B98A.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Redo_Map.umap'
+[2024.05.10-15.48.38:873][702]LogFileHelpers: All files are already saved.
+[2024.05.10-15.48.38:873][702]LogFileHelpers: Saving map 'Redo_Map' took 0.466
+[2024.05.10-15.48.38:881][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 524 ms (total: 5.55 sec)
+[2024.05.10-15.48.38:888][702]AssetCheck: New page: Asset Save: Redo_Map
+[2024.05.10-15.48.38:888][702]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/Redo_Map.Redo_Map
