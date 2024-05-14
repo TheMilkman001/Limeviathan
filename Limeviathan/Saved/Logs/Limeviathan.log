@@ -2884,3 +2884,259 @@ The following settings have been applied:
 [2024.05.14-15.48.31:343][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 210 ms (total: 3.43 sec)
 [2024.05.14-15.48.31:348][549]AssetCheck: New page: Asset Save: Start_Menu
 [2024.05.14-15.48.31:348][549]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/Start_Menu.Start_Menu
+[2024.05.14-15.51.02:966][ 43]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\BigT.fbx)
+[2024.05.14-15.51.03:119][ 43]LogFbx: Loading FBX Scene from E:\BigT.fbx
+[2024.05.14-15.51.03:143][ 43]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.14-15.51.05:069][ 43]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.05.14-15.51.05:555][ 43]LogFbx: Display: Triangulating static mesh Cylinder
+[2024.05.14-15.51.05:680][ 43]LogStaticMesh: Display: Building static mesh BigT...
+[2024.05.14-15.51.05:771][ 43]LogStaticMesh: Built static mesh [0.09s] /Game/VRTemplate/Blueprints/BigT.BigT
+[2024.05.14-15.51.06:020][ 43]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.05.14-15.51.07:835][ 43]LogMeshUtilities: Finished distance field build in 2.0s - 126x126x63 sparse distance field, 0.8Mb total, 0.0Mb always loaded, 41% occupied, 267 triangles, BigT
+[2024.05.14-15.51.11:592][156]LogSlate: Window 'Message Log' being destroyed
+[2024.05.14-15.51.11:603][156]LogSlate: Window 'Message Log' being destroyed
+[2024.05.14-15.51.20:096][334]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Lighthouse2.fbx)
+[2024.05.14-15.51.20:106][334]LogFbx: Loading FBX Scene from E:\Lighthouse2.fbx
+[2024.05.14-15.51.20:114][334]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.14-15.51.22:884][334]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.05.14-15.51.23:009][334]LogFbx: Display: Triangulating static mesh Cylinder
+[2024.05.14-15.51.23:027][334]LogStaticMesh: Display: Building static mesh Lighthouse2...
+[2024.05.14-15.51.23:042][334]LogStaticMesh: Built static mesh [0.02s] /Game/VRTemplate/Blueprints/Lighthouse2.Lighthouse2
+[2024.05.14-15.51.23:110][334]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.05.14-15.51.25:604][334]LogMeshUtilities: Finished distance field build in 2.6s - 126x126x126 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 72% occupied, 112 triangles, Lighthouse2
+[2024.05.14-15.51.27:244][383]LogSlate: Window 'Message Log' being destroyed
+[2024.05.14-15.51.27:256][383]LogSlate: Window 'Message Log' being destroyed
+[2024.05.14-15.51.28:385][415]LogMeshUtilities: Finished distance field build in 2.8s - 126x126x126 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 72% occupied, 112 triangles, Lighthouse2
+[2024.05.14-15.51.37:169][525]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\literallyJustAGreenTube.fbx)
+[2024.05.14-15.51.37:179][525]LogFbx: Loading FBX Scene from E:\literallyJustAGreenTube.fbx
+[2024.05.14-15.51.37:228][525]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.14-15.51.39:586][525]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.05.14-15.51.39:811][525]LogFbx: Valid bind pose for Pose (Cylinder) - Cylinder
+[2024.05.14-15.51.39:813][525]LogFbx: Triangulating skeletal mesh Cylinder
+[2024.05.14-15.51.40:016][525]LogFbx: Bones digested - 14  Depth of hierarchy - 14
+[2024.05.14-15.51.40:291][525]LogSkeletalMesh: Section 0: Material=0, 272 triangles
+[2024.05.14-15.51.40:345][525]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (literallyJustAGreenTube) ...
+[2024.05.14-15.51.40:428][525]LogSkeletalMesh: Building Skeletal Mesh literallyJustAGreenTube...
+[2024.05.14-15.51.40:552][525]LogSkeletalMesh: Built Skeletal Mesh [0.22s] /Game/VRTemplate/Blueprints/literallyJustAGreenTube.literallyJustAGreenTube
+[2024.05.14-15.51.51:308][525]LogSlate: Window 'Message' being destroyed
+[2024.05.14-15.51.51:320][525]Message dialog closed, result: Yes, title: Message, text: FAILED TO MERGE BONES:
+
+ This could happen if significant hierarchical changes have been made
+e.g. inserting a bone between nodes.
+Would you like to regenerate the Skeleton from this mesh?
+
+***WARNING: THIS MAY INVALIDATE OR REQUIRE RECOMPRESSION OF ANIMATION DATA.***
+
+[2024.05.14-15.51.56:815][525]LogSlate: Window 'Message' being destroyed
+[2024.05.14-15.51.56:827][525]Message dialog closed, result: Yes, title: Message, text: Would you like to merge all SkeletalMeshes using this skeleton to ensure all bones are merged? This will require to load those SkeletalMeshes.
+[2024.05.14-15.52.00:450][525]LogSlate: Window 'Message' being destroyed
+[2024.05.14-15.52.00:459][525]Message dialog closed, result: Ok, title: Message, text: Failed to merge SkeletalMesh 'nononoWAITWAITWAIT'.
+[2024.05.14-15.52.00:718][525]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.14-15.52.00:719][525]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.14-15.52.00:723][525]LogMaterial: Display: Material /Game/VRTemplate/Blueprints/Material_001.Material_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.05.14-15.52.00:958][525]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.05.14-15.52.00:958][525]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.05.14-15.52.00:958][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.14-15.52.01:113][525]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.14-15.52.01:114][525]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.14-15.52.01:129][525]LogShaderCompilers: Display: ================================================
+[2024.05.14-15.52.01:129][525]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.14-15.52.01:129][525]LogShaderCompilers: Display: Total job queries 100, among them cache hits 16 (16.00%)
+[2024.05.14-15.52.01:129][525]LogShaderCompilers: Display: Tracking 84 distinct input hashes that result in 62 distinct outputs (73.81%)
+[2024.05.14-15.52.01:129][525]LogShaderCompilers: Display: RAM used: 449.05 KiB of 819.20 MiB budget. Usage: 0.05%
+[2024.05.14-15.52.01:129][525]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.14-15.52.01:129][525]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.14-15.52.01:129][525]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.14-15.52.01:129][525]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.14-15.52.01:129][525]LogShaderCompilers: Display: ================================================
+[2024.05.14-15.52.01:183][525]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.05.14-15.52.01:183][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.14-15.52.01:269][525]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.05.14-15.52.01:269][525]FBXImport: Warning: The following bones are missing from the bind pose:
+Bone.012_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2024.05.14-15.52.01:453][526]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.14-15.52.05:497][666]LogSlate: Window 'Message Log' being destroyed
+[2024.05.14-15.52.05:507][666]LogSlate: Window 'Message Log' being destroyed
+[2024.05.14-15.52.59:443][683]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRTemplate/Blueprints/BigT.BigT
+[2024.05.14-15.52.59:447][683]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRTemplate/Blueprints/BigT.BigT
+[2024.05.14-15.52.59:448][683]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRTemplate/Blueprints/BigT.BigT as actor: StaticMeshActor /Game/VRTemplate/Maps/Start_Menu.Start_Menu:PersistentLevel.StaticMeshActor_1
+[2024.05.14-15.53.03:997][834]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRTemplate/Blueprints/BigT.BigT
+[2024.05.14-15.53.03:997][834]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRTemplate/Blueprints/BigT.BigT
+[2024.05.14-15.53.03:998][834]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRTemplate/Blueprints/BigT.BigT as actor: StaticMeshActor /Game/VRTemplate/Maps/Start_Menu.Start_Menu:PersistentLevel.StaticMeshActor_4
+[2024.05.14-15.53.36:077][  8]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRTemplate/Blueprints/Lighthouse2.Lighthouse2
+[2024.05.14-15.53.36:077][  8]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRTemplate/Blueprints/Lighthouse2.Lighthouse2
+[2024.05.14-15.53.36:078][  8]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRTemplate/Blueprints/Lighthouse2.Lighthouse2 as actor: StaticMeshActor /Game/VRTemplate/Maps/Start_Menu.Start_Menu:PersistentLevel.StaticMeshActor_5
+[2024.05.14-15.53.36:768][ 32]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRTemplate/Blueprints/Lighthouse2.Lighthouse2
+[2024.05.14-15.53.36:768][ 32]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRTemplate/Blueprints/Lighthouse2.Lighthouse2
+[2024.05.14-15.53.36:770][ 32]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRTemplate/Blueprints/Lighthouse2.Lighthouse2 as actor: StaticMeshActor /Game/VRTemplate/Maps/Start_Menu.Start_Menu:PersistentLevel.StaticMeshActor_6
+[2024.05.14-15.55.46:492][995]LogShaderCompilers: Display: ================================================
+[2024.05.14-15.55.46:493][995]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.14-15.55.46:493][995]LogShaderCompilers: Display: Total job queries 102, among them cache hits 16 (15.69%)
+[2024.05.14-15.55.46:493][995]LogShaderCompilers: Display: Tracking 86 distinct input hashes that result in 63 distinct outputs (73.26%)
+[2024.05.14-15.55.46:493][995]LogShaderCompilers: Display: RAM used: 459.97 KiB of 819.20 MiB budget. Usage: 0.05%
+[2024.05.14-15.55.46:493][995]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.14-15.55.46:493][995]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.14-15.55.46:493][995]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.14-15.55.46:493][995]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.14-15.55.46:493][995]LogShaderCompilers: Display: ================================================
+[2024.05.14-15.56.50:865][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.05.14-15.56.52:098][228]LogSlate: Window 'Save Content' being destroyed
+[2024.05.14-15.56.52:111][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.14-15.56.52:258][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.05.14-15.56.52:297][228]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/Start_Menu
+[2024.05.14-15.56.52:299][228]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/Start_Menu4748DF1B45135E3D6223BC9898167A4C.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Start_Menu.umap'
+[2024.05.14-15.56.52:344][228]LogFileHelpers: Saving map 'Start_Menu' took 0.171
+[2024.05.14-15.56.52:367][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/BigT" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/BigT.uasset" SILENT=true
+[2024.05.14-15.56.52:387][228]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/BigT
+[2024.05.14-15.56.52:387][228]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/BigT8D1BAA7A43ADF14147D0D2AC9D5C8AF7.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/BigT.uasset'
+[2024.05.14-15.56.52:461][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/Lighthouse2" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Lighthouse2.uasset" SILENT=true
+[2024.05.14-15.56.52:468][228]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Lighthouse2
+[2024.05.14-15.56.52:468][228]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/Lighthouse289D6FDAF4B20C4C504F809AF3D70D2EC.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Lighthouse2.uasset'
+[2024.05.14-15.56.52:526][228]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/literallyJustAGreenTube
+[2024.05.14-15.56.52:526][228]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/literallyJustAGreenTubeDE3D9AB5411D1351284A9FA006742166.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/literallyJustAGreenTube.uasset'
+[2024.05.14-15.56.52:557][228]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/literallyJustAGreenTube_PhysicsAsset
+[2024.05.14-15.56.52:557][228]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/literallyJustAGreenTube_PhysicsA86256B8D420F98102F01A9B8F1FDBD20.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/literallyJustAGreenTube_PhysicsAsset.uasset'
+[2024.05.14-15.56.52:584][228]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Material_001
+[2024.05.14-15.56.52:586][228]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/Material_00195E8E0764B10CBAC912FE39BA24645A5.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Material_001.uasset'
+[2024.05.14-15.56.52:602][228]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/nononoWAITWAITWAIT_Skeleton
+[2024.05.14-15.56.52:604][228]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/nononoWAITWAITWAIT_SkeletonFC4F7F55458F2A715858A3A0F755EBD5.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/nononoWAITWAITWAIT_Skeleton.uasset'
+[2024.05.14-15.56.52:627][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 516 ms (total: 3.95 sec)
+[2024.05.14-15.56.52:686][228]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.14-15.56.52:687][228]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/Start_Menu.Start_Menu
+[2024.05.14-15.56.52:687][228]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/VRTemplate/Blueprints/BigT.BigT
+[2024.05.14-15.56.52:687][228]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/VRTemplate/Blueprints/Lighthouse2.Lighthouse2
+[2024.05.14-15.56.52:687][228]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/VRTemplate/Blueprints/literallyJustAGreenTube.literallyJustAGreenTube
+[2024.05.14-15.56.52:687][228]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/VRTemplate/Blueprints/literallyJustAGreenTube_PhysicsAsset.literallyJustAGreenTube_PhysicsAsset
+[2024.05.14-15.56.52:687][228]LogContentValidation: Display: Validating /Script/Engine.Material /Game/VRTemplate/Blueprints/Material_001.Material_001
+[2024.05.14-15.56.52:687][228]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/VRTemplate/Blueprints/nononoWAITWAITWAIT_Skeleton.nononoWAITWAITWAIT_Skeleton
+[2024.05.14-15.57.01:270][525]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Tentacles.Tentacles
+[2024.05.14-15.57.01:270][525]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.14-15.57.01:270][525]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.14-15.57.03:103][572]LogViewport: Scene viewport resized to 1237x691, mode Windowed.
+[2024.05.14-15.57.14:271][ 24]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.05.14-15.57.14:291][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.14-15.57.14:291][ 24]PIE: New page: PIE session: Start_Menu (May 14, 2024, 1:57:14 AM)
+[2024.05.14-15.57.14:291][ 24]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_Start_Menu
+[2024.05.14-15.57.14:299][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007816s)
+[2024.05.14-15.57.14:299][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/Start_Menu.Start_Menu to /Game/VRTemplate/Maps/UEDPIE_0_Start_Menu.Start_Menu (0.007865s)
+[2024.05.14-15.57.14:322][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.05.14-15.57.14:324][ 24]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.14-15.57.14:325][ 24]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.14-15.57.14:325][ 24]LogAIModule: Creating AISystem for world Start_Menu
+[2024.05.14-15.57.14:326][ 24]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2024.05.14-15.57.14:326][ 24]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.05.14-15.57.14:326][ 24]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.14-15.57.14:326][ 24]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.14-15.57.14:326][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.14-15.57.14:326][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.14-15.57.14:326][ 24]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.14-15.57.14:326][ 24]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.14-15.57.14:326][ 24]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.14-15.57.14:326][ 24]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.14-15.57.14:327][ 24]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.14-15.57.14:327][ 24]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.14-15.57.14:327][ 24]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.14-15.57.14:330][ 24]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.14-15.57.14:360][ 24]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.05.14-15.57.14:360][ 24]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.14-15.57.14:360][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.14-15.57.14:360][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.14-15.57.14:361][ 24]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.05.14-15.57.14:361][ 24]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.05.14-15.57.14:366][ 24]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.05.14-15.57.14:366][ 24]LogInit: FAudioDevice initialized with ID 14.
+[2024.05.14-15.57.14:366][ 24]LogAudio: Display: Audio Device (ID: 14) registered with world 'Start_Menu'.
+[2024.05.14-15.57.14:366][ 24]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.05.14-15.57.14:366][ 24]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.05.14-15.57.14:374][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.14-15.57.15:477][ 24]LogLoad: Game class is 'VRGameMode_C'
+[2024.05.14-15.57.15:480][ 24]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_Start_Menu.Start_Menu up for play (max tick rate 0) at 2024.05.14-08.57.15
+[2024.05.14-15.57.15:484][ 24]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.05.14-15.57.15:484][ 24]LogWorld: Bringing up level for play took: 0.006379
+[2024.05.14-15.57.15:488][ 24]LogSlate: New Slate User Created. Platform User Id 9, User Index 9, Is Virtual User: 1
+[2024.05.14-15.57.15:492][ 24]LogSlate: Slate User Registered.  User Index 9, Is Virtual User: 1
+[2024.05.14-15.57.15:493][ 24]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.05.14-15.57.15:493][ 24]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.05.14-15.57.15:493][ 24]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.05.14-15.57.15:493][ 24]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.05.14-15.57.15:493][ 24]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.14-15.57.15:493][ 24]LogNet: GameNetDriver IpNetDriver_12 IpNetDriver listening on port 17777
+[2024.05.14-15.57.15:494][ 24]LogHMD: SetSpectatorScreenMode(6).
+[2024.05.14-15.57.15:495][ 24]vr.PixelDensity = "1"
+[2024.05.14-15.57.15:534][ 24]PIE: Server logged in
+[2024.05.14-15.57.15:546][ 24]PIE: Play in editor total start time 1.255 seconds.
+[2024.05.14-15.57.15:703][ 24]LogViewport: Scene viewport resized to 4464x2292, mode Windowed.
+[2024.05.14-15.57.15:760][ 24]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.05.14-15.57.15:813][ 25]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.05.14-15.57.28:790][401]LogNet: Browse: /Game/VRTemplate/Maps/Redo_Map
+[2024.05.14-15.57.28:790][401]LogLoad: LoadMap: /Game/VRTemplate/Maps/Redo_Map
+[2024.05.14-15.57.28:790][401]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_Start_Menu
+[2024.05.14-15.57.28:791][401]LogNet: World NetDriver shutdown IpNetDriver_12 [GameNetDriver]
+[2024.05.14-15.57.28:791][401]LogNet: DestroyNamedNetDriver IpNetDriver_12 [GameNetDriver]
+[2024.05.14-15.57.28:791][401]LogExit: GameNetDriver IpNetDriver_12 shut down
+[2024.05.14-15.57.28:792][401]LogWorld: UWorld::CleanupWorld for Start_Menu, bSessionEnded=true, bCleanupResources=true
+[2024.05.14-15.57.28:792][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.14-15.57.28:815][401]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.14-15.57.28:818][401]LogSlate: Slate User Unregistered.  User Index 9
+[2024.05.14-15.57.28:818][401]LogSlate: Slate User Destroyed.  User Index 9, Is Virtual User: 1
+[2024.05.14-15.57.28:820][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.05.14-15.57.28:924][401]LogAudio: Display: Audio Device (ID: 14) registered with world 'Redo_Map'.
+[2024.05.14-15.57.28:924][401]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.14-15.57.28:924][401]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.14-15.57.28:925][401]LogAIModule: Creating AISystem for world Redo_Map
+[2024.05.14-15.57.28:925][401]LogPlayLevel: PIE: World Init took: (0.001505s)
+[2024.05.14-15.57.28:925][401]LogLoad: Game class is 'VRGameMode_C'
+[2024.05.14-15.57.29:026][401]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_Redo_Map.Redo_Map up for play (max tick rate 0) at 2024.05.14-08.57.29
+[2024.05.14-15.57.29:028][401]LogWorld: Bringing up level for play took: 0.097223
+[2024.05.14-15.57.29:032][401]LogSlate: New Slate User Created. Platform User Id 9, User Index 9, Is Virtual User: 1
+[2024.05.14-15.57.29:036][401]LogSlate: Slate User Registered.  User Index 9, Is Virtual User: 1
+[2024.05.14-15.57.29:040][401]LogHMD: SetSpectatorScreenMode(6).
+[2024.05.14-15.57.29:040][401]vr.PixelDensity = "1"
+[2024.05.14-15.57.29:040][401]LogLoad: Took 0.249676 seconds to LoadMap(/Game/VRTemplate/Maps/Redo_Map)
+[2024.05.14-15.57.44:551][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.14-15.57.44:551][915]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_Redo_Map
+[2024.05.14-15.57.44:680][915]LogSlate: Window 'Limeviathan Preview [NetMode: Server 0]  (64-bit/PC D3D SM5) OpenXR SteamVR/OpenXR (2.5.4)' being destroyed
+[2024.05.14-15.57.44:683][915]LogWorld: UWorld::CleanupWorld for Redo_Map, bSessionEnded=true, bCleanupResources=true
+[2024.05.14-15.57.44:686][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.14-15.57.44:690][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.14-15.57.44:699][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.14-15.57.44:726][915]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.05.14-15.57.44:761][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.05.14-15.57.44:764][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.05.14-15.57.44:778][915]LogSlate: Slate User Unregistered.  User Index 9
+[2024.05.14-15.57.44:779][915]LogSlate: Slate User Destroyed.  User Index 9, Is Virtual User: 1
+[2024.05.14-15.57.44:784][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2024.05.14-15.57.44:923][916]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.05.14-15.57.53:049][227]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.14-15.57.53:055][227]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.14-15.58.02:324][643]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.14-15.58.02:358][644]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.14-15.58.02:463][647]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.14-15.58.23:087][610]LogEditorTransaction: Undo Edit Skeletal Mesh Asset
+[2024.05.14-15.58.25:346][695]BlueprintLog: New page: Compile Tentacles
+[2024.05.14-15.58.25:547][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.05.14-15.58.26:232][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.14-15.58.26:298][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/Tentacles" FILE="C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Tentacles.uasset" SILENT=true
+[2024.05.14-15.58.26:346][710]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Tentacles
+[2024.05.14-15.58.26:349][710]LogSavePackage: Moving 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Saved/Tentacles39FB99EA45487B3C4D6DD092E9BD991B.tmp' to 'C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Tentacles.uasset'
+[2024.05.14-15.58.26:360][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 4.07 sec)
+[2024.05.14-15.58.26:365][710]AssetCheck: New page: Asset Save: Tentacles
+[2024.05.14-15.58.26:365][710]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/Tentacles.Tentacles
+[2024.05.14-15.58.32:324][971]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/VRTemplate/Blueprints/nononoWAITWAITWAIT.nononoWAITWAITWAIT
+[2024.05.14-15.58.32:507][971]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.14-15.58.32:508][971]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.14-15.58.32:812][971]LoadErrors: The Skeleton  nononoWAITWAITWAIT_Skeleton is missing bones that SkeletalMesh  nononoWAITWAITWAIT needs. They will be added now. Please save the Skeleton!
+[2024.05.14-15.58.32:905][971]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.14-15.58.34:519][971]LogViewport: Scene viewport resized to 1430x866, mode Windowed.
+[2024.05.14-15.58.55:698][154]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/VRTemplate/Blueprints/nononoWAITWAITWAIT_Skeleton.nononoWAITWAITWAIT_Skeleton
+[2024.05.14-15.58.55:698][154]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.14-15.58.55:698][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.14-15.58.55:704][154]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.14-15.58.56:191][154]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.14-15.58.56:191][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.14-15.58.56:463][154]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2024.05.14-15.59.04:253][587]LogSlate: Window 'Message Log' being destroyed
+[2024.05.14-15.59.04:260][587]LogSlate: Window 'Message Log' being destroyed
