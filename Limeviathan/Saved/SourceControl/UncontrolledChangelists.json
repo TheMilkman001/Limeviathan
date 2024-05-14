@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Start_Menu.umap",
+				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Start_Menu.uasset",
+				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Spectatormenu.uasset",
+				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRSpectator.uasset",
 				"C:/Users/vvvvr/OneDrive/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Menu.uasset",
 				"C:/Users/vvvvr/OneDrive/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/VRPawn.uasset",
 				"C:/Users/vvvvr/OneDrive/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Start_Menu.umap",
@@ -19,9 +23,7 @@
 				"C:/Users/vvvvr/OneDrive/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Win_Screen.uasset",
 				"C:/Users/vvvvr/OneDrive/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Spectatormenu.uasset",
 				"C:/Users/vvvvr/OneDrive/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/SpectatorMenuObject.uasset",
-				"C:/Users/vvvvr/OneDrive/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/MenuBoat.uasset",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Maps/Start_Menu.umap",
-				"C:/Users/346625/Documents/Unreal Projects/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/Start_Menu.uasset"
+				"C:/Users/vvvvr/OneDrive/Documents/GitHub/Limeviathan/Limeviathan/Content/VRTemplate/Blueprints/MenuBoat.uasset"
 			]
 		}
 	]
